@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "56380b271029d3bb",
+        "id": "b3a4f0efe850ed98",
         "type": "tabs",
         "children": [
           {
-            "id": "4998eb5493ff9237",
+            "id": "320f8563a5b38bff",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zxc/$tmp/$$tmp/BETA BCK.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -46,7 +42,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Type1/Water",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +79,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zxc/$tmp/$$tmp/BETA BCK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +95,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zxc/$tmp/$$tmp/BETA BCK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,30 +116,28 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "zxc/$tmp/$$tmp/BETA BCK.md"
-              }
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "4998eb5493ff9237",
+  "active": "320f8563a5b38bff",
   "lastOpenFiles": [
-    "§ Inbox/Untitled 2.md",
-    "zxc/$tmp/$$tmp/BETA BCK.md",
-    "§ Inbox/Untitled 1.md",
-    "§ Inbox/Untitled.md",
-    "§ Inbox/2022-09-12.md",
-    "Pokédex SAMPLES/Ivysaur.md",
-    "zxc/att/Ivysaur.png",
-    "zxc/$tmp/cursor.md",
-    "Pokédex SAMPLES/Bulbasaur.md",
-    "zxc/$tmp/$$tmp/BETA newDexEntry.md"
+    "§ Inbox/Pokedex DV List.md",
+    "1 - Projects/PokeVault x Dataview/Dataview TESTPAGE.md",
+    "1 - Projects/betaPokedex/006 Charizard.md",
+    "2 - Areas/TCG Sets/Trick or Trade Set.md",
+    "§ Inbox/Trick or Trade lookuplist.md",
+    "1 - Projects/betaPokedex/042 Golbat.md",
+    "1 - Projects/betaPokedex/169 Crobat.md",
+    "1 - Projects/betaPokedex/858 Hatterene.md",
+    "OTD/Daily/2022-09-13p.md",
+    "§ Inbox/026 Raichu.md"
   ]
 }

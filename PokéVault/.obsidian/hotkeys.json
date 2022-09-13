@@ -918,5 +918,7 @@
       ],
       "key": "S"
     }
-  ]
+  ],
+  "obsidian-completr:completr-select-next-suggestion": [],
+  "obsidian-completr:completr-select-previous-suggestion": []
 }

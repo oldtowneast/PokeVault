@@ -5,16 +5,23 @@
     "fontSize": 16,
     "iconColor": "#c4b617",
     "recentlyUsedIcons": [
-      "FasSection"
+      "Fas3",
+      "Fas4"
     ],
-    "recentlyUsedIconsSize": 5,
+    "recentlyUsedIconsSize": 2,
     "rules": [],
     "extraMargin": {
       "top": 2,
-      "right": 2,
+      "right": 6,
       "bottom": 2,
       "left": 2
     }
   },
-  "§ Inbox": "FasSection"
+  "§ Inbox": "FasSection",
+  "OTD": "FasCalendarDay",
+  "zxc": "FasGear",
+  "1 - Projects": "Fas1",
+  "2 - Areas": "Fas2",
+  "4 - Archive": "Fas4",
+  "3 - Resources": "Fas3"
 }
