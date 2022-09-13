@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "30436febca77ac00",
+    "type": "split",
+    "children": [
+      {
+        "id": "56380b271029d3bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4998eb5493ff9237",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zxc/$tmp/$$tmp/BETA BCK.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b1643f921e188a51",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfa4d6ced4777472",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efb3550e7741b6b8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c1bc861a6ec80ef4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0edf59f677e01837",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f49b3148bec9107c",
+    "type": "split",
+    "children": [
+      {
+        "id": "074e7003edc1cd4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c431f3a07e0d31c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "zxc/$tmp/$$tmp/BETA BCK.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "056e84563fc20f99",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "zxc/$tmp/$$tmp/BETA BCK.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bbd1f56687620784",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "85210ccdd103bc87",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "zxc/$tmp/$$tmp/BETA BCK.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4998eb5493ff9237",
+  "lastOpenFiles": [
+    "§ Inbox/Untitled 2.md",
+    "zxc/$tmp/$$tmp/BETA BCK.md",
+    "§ Inbox/Untitled 1.md",
+    "§ Inbox/Untitled.md",
+    "§ Inbox/2022-09-12.md",
+    "Pokédex SAMPLES/Ivysaur.md",
+    "zxc/att/Ivysaur.png",
+    "zxc/$tmp/cursor.md",
+    "Pokédex SAMPLES/Bulbasaur.md",
+    "zxc/$tmp/$$tmp/BETA newDexEntry.md"
+  ]
+}
