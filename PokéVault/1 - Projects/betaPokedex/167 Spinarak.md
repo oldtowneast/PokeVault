@@ -10,7 +10,7 @@ image: "![[167-Spinarak.png]]"
 
 ![[167 Spinarak.png]]
 
-Pokédex Number:: 167
+Number:: 167
 
 Name:: Spinarak
 

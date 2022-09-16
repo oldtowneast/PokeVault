@@ -9,7 +9,7 @@ type-2: Poison
 
 ![[Ivysaur.png|256]]
 
-Pokédex Number:: 002
+Number:: 002
 
 Name:: Ivysaur
 

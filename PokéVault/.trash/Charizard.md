@@ -11,7 +11,7 @@ evolutions:: <% tp.file.cursor(70) %>
 
 
 
-Pokédex Number:: 006
+Number:: 006
 
 Name:: Charizard
 

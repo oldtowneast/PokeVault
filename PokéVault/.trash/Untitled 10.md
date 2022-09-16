@@ -11,7 +11,7 @@ evolutions:: <% tp.file.cursor(70) %>
 
 
 
-Pokédex Number:: <% tp.file.cursor(10) %>
+Number:: <% tp.file.cursor(10) %>
 
 Name:: Untitled
 

@@ -8,7 +8,7 @@ type-2: Flying
 
 ![[Charizard.png]]
 
-Pokédex Number:: 006
+Number:: 006
 
 Name:: Charizard
 

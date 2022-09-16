@@ -1,4 +1,4 @@
-Pokédex Number:: <% tp.file.cursor(10) %>
+Number:: <% tp.file.cursor(10) %>
 
 Name:: <% tp.file.title %>
 

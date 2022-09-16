@@ -10,7 +10,7 @@ image: "<% tp.file.cursor(80) %>"
 
 <% tp.file.cursor(80) %>
 
-Pokédex Number:: 104
+Number:: 104
 
 Name:: Cubone
 

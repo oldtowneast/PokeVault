@@ -1,4 +1,4 @@
-Pokédex Number:: 
+Number:: 
 Name:: 
 Type 1:: 
 Type 2:: 

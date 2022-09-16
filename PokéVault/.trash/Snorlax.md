@@ -1,4 +1,4 @@
-Pokédex Number:: 187
+Number:: 187
 Name:: Snorlax
 Type 1:: Normal
 Type 2:: N/A

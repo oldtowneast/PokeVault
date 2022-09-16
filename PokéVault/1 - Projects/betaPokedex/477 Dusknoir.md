@@ -8,7 +8,7 @@ type-2:
 ---
 
 ![[477 Dusknoir.png]]
-Pokédex Number:: 477
+Number:: 477
 
 Name:: Dusknoir
 

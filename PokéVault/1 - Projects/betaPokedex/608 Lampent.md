@@ -10,7 +10,7 @@ image: "<% tp.file.cursor(80) %>"
 
 <% tp.file.cursor(80) %>
 
-Pokédex Number:: 608
+Number:: 608
 
 Name:: Lampent
 

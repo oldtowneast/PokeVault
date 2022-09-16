@@ -1,4 +1,4 @@
-Pokédex Number:: foo
+Number:: foo
 Name:: Solrock
 Type 1:: foo
 Type 2:: foo

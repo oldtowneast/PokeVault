@@ -1,6 +1,6 @@
 ![[Chinchou.png|256]]
 
-Pokédex Number:: 170
+Number:: 170
 
 Name:: Chinchou
 

@@ -1,4 +1,4 @@
-Pokédex Number:: 187
+Number:: 187
 
 Name:: Untitled 2
 

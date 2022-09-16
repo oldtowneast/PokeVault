@@ -10,7 +10,7 @@ image: "![[168_Ariados.png]]"
 
 ![[168 Ariados.png]]
 
-Pokédex Number:: 168
+Number:: 168
 
 Name:: Ariados
 

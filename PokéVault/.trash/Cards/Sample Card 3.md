@@ -1,4 +1,4 @@
-Pokédex Number:: 9
+Number:: 9
 Name:: 
 Type 1:: 
 Type 2:: 

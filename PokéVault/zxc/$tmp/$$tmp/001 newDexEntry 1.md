@@ -9,7 +9,7 @@ type-2: <% tp.file.cursor(40) %>
 
 <% tp.file.cursor(80) %>
 
-Pokédex Number:: <% tp.file.cursor(10) %>
+Number:: <% tp.file.cursor(10) %>
 
 Name:: <% tp.file.title.split(" ")[1] %>
 

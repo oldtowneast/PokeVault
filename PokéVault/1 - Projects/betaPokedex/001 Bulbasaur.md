@@ -9,7 +9,7 @@ image: "![[Bulbasaur.png]]"
 ---
 
 ![[Bulbasaur.png]]
-Pokédex Number:: 001
+Number:: 001
 
 Name:: Bulbasaur
 

@@ -9,7 +9,7 @@ type-2:
 
 ![[Duskull.png]]
 
-Pokédex Number:: 355
+Number:: 355
 
 Name:: undefined
 

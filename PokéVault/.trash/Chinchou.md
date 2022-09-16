@@ -8,7 +8,7 @@ description: Its antennae, which evolved from a fin, have both positive and nega
 
 ![[Chinchou.png|256]]
 
-Pokédex Number:: 170
+Number:: 170
 
 Name:: Chinchou
 

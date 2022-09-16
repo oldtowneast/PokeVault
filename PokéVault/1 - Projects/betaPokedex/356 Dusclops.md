@@ -10,7 +10,7 @@ image: "<% tp.file.cursor(80) %>"
 
 <% tp.file.cursor(80) %>
 
-Pokédex Number:: 356
+Number:: 356
 
 Name:: Dusclops
 

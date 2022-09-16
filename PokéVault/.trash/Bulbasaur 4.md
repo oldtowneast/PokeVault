@@ -1,4 +1,4 @@
-Pokédex Number:: 01
+Number:: 01
 Name:: 
 Type 1:: <% tp.file.cursor(3) %>
 Type 2:: <% tp.file.cursor(4) %>

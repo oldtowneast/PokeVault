@@ -10,7 +10,7 @@ image: "![[609-Chandelure.png]]"
 
 ![[609 Chandelure.png]]
 
-Pokédex Number:: 609
+Number:: 609
 
 Name:: Chandelure
 

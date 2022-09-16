@@ -1,6 +1,6 @@
 ![[Bulbasaur.png]]
 
-Pokédex Number:: 001
+Number:: 001
 
 Name:: Bulbasaur
 
@@ -12,7 +12,7 @@ Weaknesses:: Fire, Psychic, Flying, Ice
 
 ----
 
-Pokédex Number:: 001
+Number:: 001
 
 Name:: Bulbasaur
 
