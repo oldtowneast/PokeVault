@@ -10,10 +10,5 @@ I stumbled across a [Pokédex someone had made in Notion](https://whatpaigeesaid
 The [active plugins](Active-Plugins.md) list if **out of date**.
 
 - For now, you see what plugins are installed by going [directly to the plugins directory](/Pok%C3%A9Vault/.obsidian/plugins).
-----
 
-~~active plugins = read in RAW view as it's automatically generated~~ outdated for the time being
-
-----
-
-For more information, check out the [wiki](/wiki).
+For more information, check out the [wiki](https://github.com/oldtowneast/PokeVault/wiki).
