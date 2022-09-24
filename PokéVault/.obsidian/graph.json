@@ -5,8 +5,37 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"0 - Pokedex\"",
+      "color": {
+        "a": 1,
+        "rgb": 14736466
+      }
+    },
+    {
+      "query": "path:\"1 - Dataviews\"",
+      "color": {
+        "a": 1,
+        "rgb": 6902496
+      }
+    },
+    {
+      "query": "path:\"3 - Resources\"",
+      "color": {
+        "a": 1,
+        "rgb": 14701254
+      }
+    },
+    {
+      "query": "path:\"9 - meta\"",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.3414744101388296,
+  "scale": 0.16682594968983902,
   "close": true
 }

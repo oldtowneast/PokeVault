@@ -1,9 +1,1 @@
-Number:: <% tp.file.cursor(1) %>
-Name:: Untitled
-Type 1:: <% tp.file.cursor(3) %>
-Type 2:: <% tp.file.cursor(4) %>
-Set:: <% tp.file.cursor(5) %>
-Regulation Mark:: <% tp.file.cursor(6) %>
-Numbering:: <% tp.file.cursor(7) %>
-Rarity:: <% tp.file.cursor(8) %>
-Notes:: <% tp.file.cursor(9) %>
+Evolutions:: [[133 Eevee|Eevee]] > [[134 Vaporeon|Vaporeon]] [[135 Jolteon|Jolteon]] [[136 Flareon|Fareon]] [[196 Epseon|Epseon]] [[197 Umbreon|Umbreon]] [[470 Leafeon|Leafeon]] [[471 Glaceon|Glaceon]] [[700 Sylveon|Sylveon]] 

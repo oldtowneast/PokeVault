@@ -1,0 +1,1 @@
+self: "[[<% tp.file.title %>|<% tp.file.title.split(" ")[1] %>]]"

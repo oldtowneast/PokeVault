@@ -1,5 +1,40 @@
 {
-  "choices": [],
+  "choices": [
+    {
+      "id": "62629f73-8e54-4526-8db5-59da0168b1be",
+      "name": "Add",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "OTD/Daily/{{DATE:YYYY-MM-DD}}.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": false,
+        "template": "9 - meta/zxc/$tmp/$$tmp/OMG-new-daily-note.md"
+      },
+      "format": {
+        "enabled": false,
+        "format": ""
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    }
+  ],
   "macros": [],
   "inputPrompt": "single-line"
 }

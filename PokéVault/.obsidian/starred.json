@@ -4,6 +4,31 @@
       "type": "file",
       "title": "Chinchou",
       "path": "§ Inbox/Chinchou.md"
+    },
+    {
+      "type": "file",
+      "title": "betaPokedex",
+      "path": "§ Inbox/betaPokedex.md"
+    },
+    {
+      "type": "file",
+      "title": "Minimal Helper Class x Dataview",
+      "path": "1 - Dataviews/Movie Database REDUX for Pokédex.md"
+    },
+    {
+      "type": "file",
+      "title": "Pokémon TCG",
+      "path": "3 - Resources/Pokémon TCG/Pokémon TCG.md"
+    },
+    {
+      "type": "file",
+      "title": "DV List from betaPokedex",
+      "path": "1 - Dataviews/List from Pokedex.md"
+    },
+    {
+      "type": "file",
+      "title": "PoGo List",
+      "path": "3 - Resources/Pokémon TCG/Sets/Pokemon Go/PoGo List.md"
     }
   ]
 }

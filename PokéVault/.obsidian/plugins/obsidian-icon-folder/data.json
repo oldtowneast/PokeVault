@@ -2,11 +2,11 @@
   "settings": {
     "migrated": true,
     "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
-    "fontSize": 16,
+    "fontSize": 18,
     "iconColor": "#c4b617",
     "recentlyUsedIcons": [
-      "Fas3",
-      "Fas4"
+      "FasMoon",
+      "Fas0"
     ],
     "recentlyUsedIconsSize": 2,
     "rules": [],
@@ -17,11 +17,12 @@
       "left": 2
     }
   },
+  "0 - Pokedex": "PoPokeball",
+  "1 - Dataviews": "FasCode",
+  "4 - Archive": "FasBoxArchive",
+  "3 - Resources": "FasGem",
+  "9 - meta": "FasGear",
+  "OTD": "FasCalendarDays",
   "§ Inbox": "FasSection",
-  "OTD": "FasCalendarDay",
-  "zxc": "FasGear",
-  "1 - Projects": "Fas1",
-  "2 - Areas": "Fas2",
-  "4 - Archive": "Fas4",
-  "3 - Resources": "Fas3"
+  "0 - TCG Sets": "FasLayerGroup"
 }

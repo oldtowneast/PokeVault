@@ -4,18 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b3a4f0efe850ed98",
+        "id": "4f93110de50647c2",
         "type": "tabs",
         "children": [
           {
-            "id": "320f8563a5b38bff",
+            "id": "de90032f5ac292f7",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -33,7 +34,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -42,7 +45,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Type1/Water",
+                "query": "tag:#Common",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,9 +73,23 @@
     "type": "split",
     "children": [
       {
-        "id": "074e7003edc1cd4c",
+        "id": "83242165473d9b8f",
         "type": "tabs",
         "children": [
+          {
+            "id": "04c543973002eee9",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - TCG Sets/Pokemon Go/PoGo List BETA 2.0.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
           {
             "id": "4c431f3a07e0d31c",
             "type": "leaf",
@@ -101,6 +118,14 @@
             }
           },
           {
+            "id": "85210ccdd103bc87",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
             "id": "bbd1f56687620784",
             "type": "leaf",
             "state": {
@@ -110,34 +135,26 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "85210ccdd103bc87",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "320f8563a5b38bff",
+  "active": "de90032f5ac292f7",
   "lastOpenFiles": [
-    "§ Inbox/Pokedex DV List.md",
-    "1 - Projects/PokeVault x Dataview/Dataview TESTPAGE.md",
-    "1 - Projects/betaPokedex/006 Charizard.md",
-    "2 - Areas/TCG Sets/Trick or Trade Set.md",
-    "§ Inbox/Trick or Trade lookuplist.md",
-    "1 - Projects/betaPokedex/042 Golbat.md",
-    "1 - Projects/betaPokedex/169 Crobat.md",
-    "1 - Projects/betaPokedex/858 Hatterene.md",
-    "OTD/Daily/2022-09-13p.md",
-    "§ Inbox/026 Raichu.md"
+    "OTD/2022-09-24.md",
+    "3 - Resources/Pokémon Resources.md",
+    "0 - Pokedex/178 Xatu.md",
+    "§ Inbox/002 Ivysaur 1.md",
+    "§ Inbox/002 Ivysaur.md",
+    "0 - Pokedex/002 Ivysaur.md",
+    "9 - meta/$tmp/$$tmp/002 Bulbasaur.md",
+    "9 - meta/$tmp/$$tmp/999 newPokedex.md",
+    "§ Inbox/Card Tests/001 Bulbasaur.md",
+    "4 - Archive/not gtg/02 Uncommon.md"
   ]
 }

@@ -1,6 +1,5 @@
 [
   "obsidian-auto-link-title",
-  "better-word-count",
   "buttons",
   "workspaces-plus",
   "templater-obsidian",
@@ -24,5 +23,9 @@
   "obsidian-local-images",
   "obsidian-paste-image-rename",
   "obsidian-sort-and-permute-lines",
-  "obsidian-editor-shortcuts"
+  "obsidian-editor-shortcuts",
+  "metaedit",
+  "tag-wrangler",
+  "obsidian-trim-whitespace",
+  "obsidian-icons-plugin"
 ]

@@ -266,10 +266,10 @@
   "insert-template": [
     {
       "modifiers": [
-        "Alt",
+        "Mod",
         "Shift"
       ],
-      "key": "T"
+      "key": "R"
     }
   ],
   "workspace:toggle-pin": [
@@ -890,14 +890,7 @@
   ],
   "omnisearch:show-modal-infile": [],
   "omnisearch:show-modal": [],
-  "obsidian42-brat:BRAT-disablePlugin": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "8"
-    }
-  ],
+  "obsidian42-brat:BRAT-disablePlugin": [],
   "obsidian-completr:completr-bypass-enter-key": [],
   "obsidian-completr:completr-jump-to-next-snippet-placeholder": [],
   "obsidian-completr:completr-open-suggestion-popup": [],
@@ -905,10 +898,9 @@
   "templater-obsidian:insert-templater": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Mod"
       ],
-      "key": "T"
+      "key": "R"
     }
   ],
   "workspace:toggle-stacked-tabs": [
@@ -920,5 +912,22 @@
     }
   ],
   "obsidian-completr:completr-select-next-suggestion": [],
-  "obsidian-completr:completr-select-previous-suggestion": []
+  "obsidian-completr:completr-select-previous-suggestion": [],
+  "editor:toggle-bullet-list": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ],
+  "editor:cycle-list-checklist": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "M"
+    }
+  ]
 }

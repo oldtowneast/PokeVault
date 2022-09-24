@@ -1,0 +1,7 @@
+{
+  "enableRis": true,
+  "enableRir": true,
+  "enableFas": true,
+  "enableFar": true,
+  "aliasMapping": "yt=fas:Youtube\noff=ris:ShieldCheck"
+}
