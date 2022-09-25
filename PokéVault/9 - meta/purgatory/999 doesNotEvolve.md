@@ -1,0 +1,1 @@
+This Pokémon does not evolve.

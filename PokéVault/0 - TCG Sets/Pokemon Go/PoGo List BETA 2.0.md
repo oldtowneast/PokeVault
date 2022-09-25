@@ -1,18 +1,9 @@
 
 [[0 - Pokedex/001 Bulbasaur|Bulbasaur]]
-- Common
-- [ ] PokémonGO/Standard 
-- [ ] PokémonGO/Parallel
 
 [[0 - Pokedex/002 Ivysaur|Ivysaur]]
-- #Uncommon
-- #PokémonGO/Standard 
-- #PokémonGO/Parallel 
-[[003 Venusaur|Venusaur]]
-- #HaloRare
-- [ ] #PokémonGO/StandardFoil 
-- [ ] #PokémonGO/Parallel 
-Radiant [[003 Venusaur|Venusaur]]
+[[0 - Pokedex/003 Venusaur|Venusaur]]
+Radiant [[0 - Pokedex/003 Venusaur|Venusaur]]
 Alolan [[103 Exeggutor|Exeggutor]] V
 [[167 Spinarak|Spinarak]]
 [[168 Ariados|Ariados]]
@@ -22,8 +13,6 @@ Alolan [[103 Exeggutor|Exeggutor]] V
 Radiant [[006 Charizard|Charizard]]
 [[146 Moltres|Moltres]]
 [[322 Numel|Numel]]
-
-----
 
 [[323 Camerupt|Camerupt]]
 [[007 Squirtle|Squirtle]]
@@ -36,13 +25,8 @@ p [[080 Slowbro]]
 [[199 Slowking]]
 p [[129 Magikarp]]
 
-```
-0 - Pokedex/
-```
-
 [[130 Gyarados|Gyarados]]
 p [[0 - Pokedex/131 Lapras]]
-
 p [[144 Articuno]]
 p [[767 Wimpod]]
 p [[768 Golisopod]]

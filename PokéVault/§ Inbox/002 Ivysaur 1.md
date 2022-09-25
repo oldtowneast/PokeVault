@@ -5,17 +5,15 @@ amount-owned:
 image: "![[002 Ivysaur.png]]"
 ---
 
-[[178 Xatu|Xatu]]
-
 Rarity:: Common
+
+> [!tldr]+ Inventory
+> - [x] Standard
+> - [x] Reverse Holo 
+
 
 ![[002 Ivysaur.png]]
 
 
 ----
-
-> [!tldr]+ Inventory
-> - [x] Standard
-> - [x] Reverse Holo
-> 
 

@@ -581,7 +581,124 @@
         "collapsed": true
       },
       "active": "61ad2aea779f2beb"
+    },
+    "POGO": {
+      "main": {
+        "id": "30436febca77ac00",
+        "type": "split",
+        "children": [
+          {
+            "id": "c85eb5e9dd976aa1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ef72217cea05cd8e",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "b1643f921e188a51",
+        "type": "split",
+        "children": [
+          {
+            "id": "bfa4d6ced4777472",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "efb3550e7741b6b8",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "c1bc861a6ec80ef4",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#Common",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "0edf59f677e01837",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "right": {
+        "id": "f49b3148bec9107c",
+        "type": "split",
+        "children": [
+          {
+            "id": "83242165473d9b8f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7968ce73f1019d33",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "0 - TCG Sets/Pokemon Go/PoGo List BETA 1.0.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "85210ccdd103bc87",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {}
+                }
+              },
+              {
+                "id": "bbd1f56687620784",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 295.5
+      },
+      "active": "ef72217cea05cd8e"
     }
   },
-  "active": "ov"
+  "active": "POGO"
 }

@@ -1,6 +1,6 @@
 Rarity:: Common
 Rarity:: Uncommon
-Rarity:: Rare
+~~Rarity:: Rare~~
 ~~Rarity:: Rare Holo~~
 Rarity:: Ultra Rare
 Rarity:: Holo Rare V

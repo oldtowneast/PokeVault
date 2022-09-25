@@ -579,22 +579,15 @@
   "templater-obsidian:jump-to-next-cursor-location": [
     {
       "modifiers": [
-        "Alt",
-        "Shift"
-      ],
-      "key": "Y"
-    },
-    {
-      "modifiers": [
         "Alt"
       ],
       "key": "Y"
     },
     {
       "modifiers": [
-        "Alt"
+        "Mod"
       ],
-      "key": "N"
+      "key": "Y"
     }
   ],
   "periodic-notes:next-daily-note": [],
