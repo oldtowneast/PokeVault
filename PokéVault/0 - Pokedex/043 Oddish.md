@@ -21,4 +21,4 @@ Weaknesses:: [[Fire]] [[Psychic]] [[Flying]] [[Ice]]
 
 Description:: If exposed to moonlight, it starts to move. It roams far and wide at night to scatter its seeds.
 
-Evolutions:: [[043 Oddish|Oddish]] > [[044 Gloom|Gloom]] > [[045 Vileplume|Vileplume]] | [[182 Bellossum|Bellossum]]
+Evolutions:: [[043 Oddish|Oddish]] > [[044 Gloom|Gloom]] > [[045 Vileplume|Vileplume]] | [[182 Bellossom|Bellossom]]

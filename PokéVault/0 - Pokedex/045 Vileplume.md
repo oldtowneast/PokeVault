@@ -21,4 +21,4 @@ Weaknesses:: [[Fire]] [[Psychic]] [[Flying]] [[Ice]]
 
 Description:: It has the world’s largest petals. With every step, the petals shake out heavy clouds of toxic pollen.
 
-Evolutions:: [[043 Oddish|Oddish]] > [[044 Gloom|Gloom]] > [[045 Vileplume|Vileplume]] | [[182 Bellossum|Bellossum]]
+Evolutions:: [[043 Oddish|Oddish]] > [[044 Gloom|Gloom]] > [[045 Vileplume|Vileplume]] | [[182 Bellossom|Bellossom]]

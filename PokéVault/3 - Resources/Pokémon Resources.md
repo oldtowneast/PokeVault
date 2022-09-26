@@ -5,7 +5,7 @@
 # General Pokémon Resources
 
 - [Pokédex | Pokemon.com](https://www.pokemon.com/us/pokedex/)
-- [Pokémon Pokédex: list of Pokémon with stats | Pokémon Database](https://pokemondb.net/pokedex/all)
+- [`fas:Star`Pokémon Pokédex: list of Pokémon with stats | Pokémon Database](https://pokemondb.net/pokedex/all)
 - [Pokémon HOME](https://www.pokemon.com/us/app/pokemon-home/)
 - [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Main_Page)
 - [Serebii.net](https://serebii.net/)
@@ -14,7 +14,7 @@
 
 ## YouTube Pokémon Resources
 
-- [The History of Pokemon | A Brief History - YouTube](https://www.youtube.com/watch?v=Offw-N3PkoA)
+- [`ris:Youtube`The History of Pokemon | A Brief History - YouTube](https://www.youtube.com/watch?v=Offw-N3PkoA)
 
 # TCG Related
 

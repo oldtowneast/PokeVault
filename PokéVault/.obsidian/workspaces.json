@@ -6,43 +6,15 @@
         "type": "split",
         "children": [
           {
-            "id": "5d53208683416440",
+            "id": "40cd30e651b8e685",
             "type": "tabs",
             "children": [
               {
-                "id": "24170cb1ddca81f4",
+                "id": "e69135f66c484aa7",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "§ Inbox/045 Vileplume.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "f42dca0abe284f4e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "§ Inbox/044 Gloom.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "39660c1a0ca525a3",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "§ Inbox/043 Oddish.md",
-                    "mode": "source",
-                    "source": false
-                  }
+                  "type": "empty",
+                  "state": {}
                 }
               }
             ]
@@ -135,7 +107,6 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "§ Inbox/045 Vileplume.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -152,7 +123,6 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "§ Inbox/045 Vileplume.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -163,9 +133,7 @@
                 "type": "leaf",
                 "state": {
                   "type": "outline",
-                  "state": {
-                    "file": "§ Inbox/045 Vileplume.md"
-                  }
+                  "state": {}
                 }
               }
             ]
@@ -174,7 +142,7 @@
         "direction": "horizontal",
         "width": 300
       },
-      "active": "24170cb1ddca81f4"
+      "active": "e69135f66c484aa7"
     }
   },
   "active": "WIP"

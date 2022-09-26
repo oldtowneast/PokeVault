@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cc0faad1c746ff87",
+        "id": "38d35ca07ba04777",
         "type": "tabs",
         "children": [
           {
-            "id": "f8554cc62545448e",
+            "id": "1f9e06416ed9fbff",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +19,8 @@
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -46,8 +47,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f49b3148bec9107c",
@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "§ Inbox/Lost Origins.md",
+                "file": "§ Science Lab/Lost Origins.md",
                 "mode": "preview",
                 "source": false
               }
@@ -149,17 +149,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f8554cc62545448e",
+  "active": "1f9e06416ed9fbff",
   "lastOpenFiles": [
-    "§ Inbox/Untitled.md",
-    "§ Inbox/826 Orbeetle (Gigantamax).md",
-    "§ Inbox/826 Orbeetle.md",
-    "0 - Pokedex/809 Melmetal (Gigantamax).md",
-    "§ Inbox/218 Slugma.md",
-    "§ Inbox/219 Magcargo.md",
-    "§ Inbox/825 Dottler.md",
-    "§ Inbox/824 Blipbug.md",
-    "§ Inbox/324 Torkoal.md",
-    "§ Inbox/Lost Origins.md"
+    "0 - Pokedex/043 Oddish.md",
+    "0 - Pokedex/044 Gloom.md",
+    "0 - Pokedex/045 Vileplume.md",
+    "0 - Pokedex/182 Bellossom.md",
+    "1 - Dataviews/Pokédex Overview.md",
+    "1 - Dataviews/Pokémon Go Set Overview.md",
+    "§ Inbox/457 Lumineon.md",
+    "§ Inbox/456 Finneon.md",
+    "§ Inbox/423 Gastrodon (East Sea).md",
+    "§ Inbox/423 Gastrodon.md"
   ]
 }
