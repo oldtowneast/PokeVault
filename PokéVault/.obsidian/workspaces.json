@@ -1,4 +1,181 @@
 {
-  "workspaces": {},
-  "active": "z"
+  "workspaces": {
+    "WIP": {
+      "main": {
+        "id": "30436febca77ac00",
+        "type": "split",
+        "children": [
+          {
+            "id": "5d53208683416440",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "24170cb1ddca81f4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "§ Inbox/045 Vileplume.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "f42dca0abe284f4e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "§ Inbox/044 Gloom.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "39660c1a0ca525a3",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "§ Inbox/043 Oddish.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "b1643f921e188a51",
+        "type": "split",
+        "children": [
+          {
+            "id": "bfa4d6ced4777472",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "efb3550e7741b6b8",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "right": {
+        "id": "f49b3148bec9107c",
+        "type": "split",
+        "children": [
+          {
+            "id": "83242165473d9b8f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "44355760484ca5d5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "§ Inbox/Lost Origins.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "bbd1f56687620784",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "c1bc861a6ec80ef4",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "0edf59f677e01837",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              },
+              {
+                "id": "bb2d62a988431166",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "§ Inbox/045 Vileplume.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "01321714f838fa63",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "§ Inbox/045 Vileplume.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "abcb01e326a624df",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "§ Inbox/045 Vileplume.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "active": "24170cb1ddca81f4"
+    }
+  },
+  "active": "WIP"
 }
