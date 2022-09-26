@@ -379,14 +379,6 @@
   ],
   "maximise-active-pane-obsidian:maximise-active-pane": [],
   "note-refactor-obsidian:app:extract-selection-first-line": [],
-  "starred:star-current-file": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "s"
-    }
-  ],
   "file-explorer:move-file": [
     {
       "modifiers": [
@@ -416,15 +408,6 @@
         "Alt"
       ],
       "key": "1"
-    }
-  ],
-  "starred:open": [
-    {
-      "modifiers": [
-        "Alt",
-        "Shift"
-      ],
-      "key": "S"
     }
   ],
   "tag-pane:open": [
@@ -921,6 +904,23 @@
         "Shift"
       ],
       "key": "M"
+    }
+  ],
+  "starred:open": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "S"
+    }
+  ],
+  "starred:star-current-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "S"
     }
   ]
 }

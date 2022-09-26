@@ -5,8 +5,8 @@
     "fontSize": 18,
     "iconColor": "#c4b617",
     "recentlyUsedIcons": [
-      "FasFire",
-      "FasMoon"
+      "Fas0",
+      "PoPokeball"
     ],
     "recentlyUsedIconsSize": 2,
     "rules": [],
@@ -26,5 +26,6 @@
   "§ Inbox": "FasSection",
   "0 - TCG Sets": "FasLayerGroup",
   "1 - Dataviews/Pokédex Overview.md": "FasFire",
-  "1 - Dataviews/Pokémon Go Set Overview.md": "FasFire"
+  "1 - Dataviews/Pokémon Go Set Overview.md": "FasFire",
+  "0 - Sets": "Fas0"
 }

@@ -29,6 +29,16 @@
       "type": "file",
       "title": "PoGo List",
       "path": "3 - Resources/Pokémon TCG/Sets/Pokemon Go/PoGo List.md"
+    },
+    {
+      "type": "file",
+      "title": "Closing Commands",
+      "path": "9 - meta/Closing Commands.md"
+    },
+    {
+      "type": "file",
+      "title": "PokeVault README",
+      "path": "9 - meta/PokeVault README.md"
     }
   ]
 }
