@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "38d35ca07ba04777",
+        "id": "c7a593177c75ec31",
         "type": "tabs",
         "children": [
           {
-            "id": "1f9e06416ed9fbff",
+            "id": "5945264ea0020598",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "9 - meta/Closing Commands.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -47,7 +43,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f49b3148bec9107c",
@@ -109,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9 - meta/Closing Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9 - meta/Closing Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "9 - meta/Closing Commands.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,17 +142,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1f9e06416ed9fbff",
+  "active": "5945264ea0020598",
   "lastOpenFiles": [
+    "OTD/2022-09-27.md",
+    "9 - meta/$tmp/$$tmp/BETA BCK.md",
+    "9 - meta/att/pd/134 Vaporeon.png",
+    "0 - Pokedex/423 Gastrodon.md",
+    "0 - Pokedex/423 Gastrodon (East Sea).md",
+    "0 - Pokedex/134 Vaporeon.md",
+    "0 - Pokedex/133 Eevee.md",
+    "9 - meta/Closing Commands.md",
     "0 - Pokedex/043 Oddish.md",
-    "0 - Pokedex/044 Gloom.md",
-    "0 - Pokedex/045 Vileplume.md",
-    "0 - Pokedex/182 Bellossom.md",
-    "1 - Dataviews/Pokédex Overview.md",
-    "1 - Dataviews/Pokémon Go Set Overview.md",
-    "§ Inbox/457 Lumineon.md",
-    "§ Inbox/456 Finneon.md",
-    "§ Inbox/423 Gastrodon (East Sea).md",
-    "§ Inbox/423 Gastrodon.md"
+    "0 - Pokedex/044 Gloom.md"
   ]
 }

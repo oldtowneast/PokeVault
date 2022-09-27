@@ -1,5 +1,5 @@
 ---
-alias: Gastrodon, Gastrodon (West SeaF)
+alias: Gastrodon, Gastrodon (West Sea)
 self: "[[423 Gastrodon|Gastrodon]]"
 image: "![[423 Gastrodon.png]]"
 ---
