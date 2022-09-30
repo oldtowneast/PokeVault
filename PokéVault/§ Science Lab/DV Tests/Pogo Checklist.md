@@ -1,5 +1,6 @@
 ```dataview
 TASK
-FROM "pogoSet"
+FROM "0 - Sets/pgoSet"
 GROUP BY file.link
 ```
+

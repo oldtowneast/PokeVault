@@ -12,7 +12,7 @@ Number:: 011/078
 Rarity:: Radiant Rare
 
 > [!tldr]+ Inventory
-> - [x] Holo
+> - [ ] Holo
 
 Owned:: 
 

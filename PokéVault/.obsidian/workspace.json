@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c7a593177c75ec31",
+        "id": "12abf8f790f8be70",
         "type": "tabs",
         "children": [
           {
-            "id": "5945264ea0020598",
+            "id": "da68e8d914f9664f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "9 - meta/Closing Commands.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ],
@@ -57,13 +61,15 @@
           {
             "id": "44355760484ca5d5",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "§ Science Lab/Lost Origins.md",
+                "file": "§ Science Lab/§ Lost Origins.md",
                 "mode": "preview",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
@@ -106,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "9 - meta/Closing Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "9 - meta/Closing Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "9 - meta/Closing Commands.md"
+              }
             }
           }
         ]
@@ -142,17 +152,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5945264ea0020598",
+  "active": "da68e8d914f9664f",
   "lastOpenFiles": [
-    "OTD/2022-09-27.md",
-    "9 - meta/$tmp/$$tmp/BETA BCK.md",
-    "9 - meta/att/pd/134 Vaporeon.png",
-    "0 - Pokedex/423 Gastrodon.md",
-    "0 - Pokedex/423 Gastrodon (East Sea).md",
-    "0 - Pokedex/134 Vaporeon.md",
-    "0 - Pokedex/133 Eevee.md",
-    "9 - meta/Closing Commands.md",
-    "0 - Pokedex/043 Oddish.md",
-    "0 - Pokedex/044 Gloom.md"
+    "§ Inbox/479 Heat Rotom.md",
+    "§ Inbox/479 Frost Rotom.md",
+    "§ Inbox/479 Wash Rotom.md",
+    "§ Inbox/479 Fan Rotom.md",
+    "§ Inbox/479 Mow Rotom.md",
+    "§ Inbox/462 Magnezone.md",
+    "§ Inbox/479 Rotom.md",
+    "§ Inbox/303 Mega Mawile.md",
+    "§ Inbox/310 Mega Manectric.md",
+    "§ Inbox/310 Manectric.md"
   ]
 }

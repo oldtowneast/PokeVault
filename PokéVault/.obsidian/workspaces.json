@@ -1,20 +1,24 @@
 {
   "workspaces": {
-    "WIP": {
+    "b": {
       "main": {
         "id": "30436febca77ac00",
         "type": "split",
         "children": [
           {
-            "id": "40cd30e651b8e685",
+            "id": "17df1d96225b2352",
             "type": "tabs",
             "children": [
               {
-                "id": "e69135f66c484aa7",
+                "id": "5c60249dcb433fcf",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {}
+                  "type": "markdown",
+                  "state": {
+                    "file": "Zero 1.md",
+                    "mode": "preview",
+                    "source": false
+                  }
                 }
               }
             ]
@@ -58,13 +62,15 @@
               {
                 "id": "44355760484ca5d5",
                 "type": "leaf",
+                "pinned": true,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "§ Inbox/Lost Origins.md",
+                    "file": "§ Science Lab/§ Lost Origins.md",
                     "mode": "preview",
                     "source": false
-                  }
+                  },
+                  "pinned": true
                 }
               },
               {
@@ -107,6 +113,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
+                    "file": "Zero 1.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -123,6 +130,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
+                    "file": "Zero 1.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -133,17 +141,20 @@
                 "type": "leaf",
                 "state": {
                   "type": "outline",
-                  "state": {}
+                  "state": {
+                    "file": "Zero 1.md"
+                  }
                 }
               }
             ]
           }
         ],
         "direction": "horizontal",
-        "width": 300
+        "width": 300,
+        "collapsed": true
       },
-      "active": "e69135f66c484aa7"
+      "active": "5c60249dcb433fcf"
     }
   },
-  "active": "WIP"
+  "active": "b"
 }
