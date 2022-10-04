@@ -4,23 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "12abf8f790f8be70",
+        "id": "9630e965af932641",
         "type": "tabs",
         "children": [
           {
-            "id": "da68e8d914f9664f",
+            "id": "23b88a8c9aabb272",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9 - meta/Closing Commands.md",
+                "file": "OTD/2022-10-03.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9 - meta/Closing Commands.md",
+                "file": "OTD/2022-10-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9 - meta/Closing Commands.md",
+                "file": "OTD/2022-10-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9 - meta/Closing Commands.md"
+                "file": "OTD/2022-10-03.md"
               }
             }
           }
@@ -152,17 +151,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "da68e8d914f9664f",
+  "active": "23b88a8c9aabb272",
   "lastOpenFiles": [
-    "§ Inbox/479 Heat Rotom.md",
-    "§ Inbox/479 Frost Rotom.md",
-    "§ Inbox/479 Wash Rotom.md",
-    "§ Inbox/479 Fan Rotom.md",
-    "§ Inbox/479 Mow Rotom.md",
-    "§ Inbox/462 Magnezone.md",
-    "§ Inbox/479 Rotom.md",
-    "§ Inbox/303 Mega Mawile.md",
-    "§ Inbox/310 Mega Manectric.md",
-    "§ Inbox/310 Manectric.md"
+    "9 - meta/$tmp/$$tmp/BETA BCK.md",
+    "§ Inbox/570 Hisuian Zorua.md",
+    "§ Science Lab/§ Lost Origins.md",
+    "Zero 1.md",
+    "§ Science Lab/DV Tests/Pogo Checklist.md",
+    "0 - Sets/pgoSet/010 Charizard.md",
+    "0 - Sets/pgoSet/006 Spinarak.md",
+    "§ Inbox/571 Hisuian Zoroark.md",
+    "§ Inbox/571 Zoroark.md",
+    "§ Inbox/570 Zorua.md"
   ]
 }

@@ -1,0 +1,11 @@
+{
+  "searches": [
+    {
+      "name": "Pokedex",
+      "query": "https://www.pokemon.com/us/pokedex/{{query}}",
+      "tags": [],
+      "encode": true
+    }
+  ],
+  "useIframe": false
+}

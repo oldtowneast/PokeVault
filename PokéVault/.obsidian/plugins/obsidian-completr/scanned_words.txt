@@ -631,6 +631,8 @@ development
 danger
 docile
 documents
+deeply
+disheveled
 Number
 Name
 Numbering
@@ -1313,6 +1315,11 @@ tmZ
 tJf
 tttLYy
 turning
+toy
+thrown
+threw
+timid
+terrifying
 file
 foo
 for
@@ -1679,6 +1686,7 @@ fBf
 fdz
 fljWbm
 filled
+forms
 cursor
 cssClass
 cards
@@ -2096,6 +2104,11 @@ cgN
 chain
 complacency
 chest
+crescent
+cursing
+curse
+cares
+conjure
 Type
 Tyranitar
 Tranquill
@@ -3580,6 +3593,7 @@ HNNKtC
 HZh
 HfJ
 Heat
+Heedless
 mon
 movies
 minimal
@@ -3910,6 +3924,7 @@ mischief
 motor
 mower
 mows
+malice
 Go
 Gyarados
 Golisopod
@@ -5727,6 +5742,9 @@ aei
 aYc
 alone
 applies
+atop
+amplifies
+attacks
 Untitled
 Unfezant
 Uz
@@ -6370,6 +6388,7 @@ protecting
 psychokinetic
 play
 pranks
+presence
 VALUE
 Venusaur
 VSTAR
@@ -6960,6 +6979,7 @@ ilj
 invention
 impending
 important
+illusions
 scoreImdb
 show
 syntax
@@ -7470,6 +7490,10 @@ suck
 shock
 seized
 scatters
+stuffed
+searching
+soul
+safe
 length
 link
 list
@@ -7803,6 +7827,8 @@ lfYbo
 led
 lull
 lawn
+lingering
+lacerates
 genre
 genreLinks
 grow
@@ -8110,6 +8136,7 @@ grL
 gemstone
 gleefully
 grass
+grateful
 year
 young
 your
@@ -8905,6 +8932,11 @@ ryK
 rtF
 relentless
 rips
+resentment
+revenge
+represent
+returned
+rises
 Bulbasaur
 Blastoise
 Blissey
@@ -10060,6 +10092,7 @@ EBx
 EmmmUGG
 EScYt
 EiS
+Extraordinary
 Wartortle
 Wimpod
 Willow
@@ -11596,6 +11629,7 @@ Dch
 DaQx
 Dvf
 DzY
+Derives
 better
 buttons
 brat
@@ -11926,6 +11960,7 @@ bath
 burn
 blasts
 blow
+bitter
 editor
 embeds
 evolved
@@ -12274,6 +12309,10 @@ emuN
 eYur
 expands
 enjoys
+ever
+exact
+extent
+embodiment
 highlight
 hider
 hotkey
@@ -12882,6 +12921,7 @@ niEIY
 nvP
 nIF
 nQE
+nemeses
 QuickAdd
 Qx
 QL
@@ -13642,6 +13682,8 @@ vJJ
 vkGD
 vmA
 vly
+veil
+vents
 us
 uses
 up
@@ -15166,6 +15208,7 @@ jbE
 jpVO
 jwg
 jaws
+jealousy
 Jd
 Jy
 JS

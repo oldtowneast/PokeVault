@@ -1,0 +1,1 @@
+<% tp.file.title.split(" ")[3] %>
