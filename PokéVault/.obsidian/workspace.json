@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f30f1c4bd5ac3960",
+        "id": "2db9fcc2dbf9895d",
         "type": "tabs",
         "children": [
           {
-            "id": "87e1e70d46c2d185",
+            "id": "74ced5ff6debb3f0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "9 - meta/Closing Commands.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ],
@@ -42,21 +46,22 @@
           {
             "id": "8ee5f2fdb4647420",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "§ Science Lab/Big Ass Lists 2.0/101-200.md",
                 "mode": "preview",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 292.5,
-    "collapsed": true
+    "width": 249.5
   },
   "right": {
     "id": "f49b3148bec9107c",
@@ -120,6 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "9 - meta/Closing Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,6 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "9 - meta/Closing Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +153,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "9 - meta/Closing Commands.md"
+              }
             }
           }
         ]
@@ -159,17 +168,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "87e1e70d46c2d185",
+  "active": "74ced5ff6debb3f0",
   "lastOpenFiles": [
-    "9 - meta/Closing Commands.md",
-    "0 - Pokedex/071 Victreebel.md",
-    "§ Inbox/Victreebel | Pokédex | More at Pokemon.com.md",
-    "0 - Pokedex/001 Bulbasaur.md",
-    "0 - Pokedex/002 Ivysaur.md",
-    "0 - Pokedex/003 Venusaur.md",
-    "0 - Pokedex/004 Charmander.md",
-    "0 - Pokedex/005 Charmeleon.md",
-    "0 - Pokedex/006 Charizard.md",
-    "0 - Pokedex/007 Squirtle.md"
+    "3 - Resources/Plain Text Lists/§ Lost Origins plaintxt.md",
+    "3 - Resources/Pokémon Resources.md",
+    "§ Inbox/Gloom | Lost Origin | Pokémon TCG Guru.md",
+    "§ Inbox/Untitled.md",
+    "9 - meta/att/cl/lost-origin-card-list.pdf",
+    "§ Science Lab/Pokémon TCG Checklists.md",
+    "0 - TCG Sets/Trick or Trade/Trick or Trade UNOFFICIAL Numbered List.md",
+    "0 - TCG Sets/Trick or Trade/Trick or Trade image list.md",
+    "0 - TCG Sets/Trick or Trade/Trick or Trade checklist.md",
+    "§ Science Lab/§ Lost Origins.md"
   ]
 }

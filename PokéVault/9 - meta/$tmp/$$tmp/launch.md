@@ -1,12 +1,12 @@
 <%*
 /*
-    { title: "Pokemon TCG Guru", url: "https://pokemontcg.guru/sets"},
     { title: "", url: ""},
     { title: "", url: ""},
 */
 
 const helpResources = [
-    { title: "", url: ""},
+    { title: "Pokemon TCG Guru", url: "https://pokemontcg.guru/sets"},
+    { title: "PokeVault GitHub", url: "https://github.com/oldtowneast/PokeVault"},
     { title: "", url: ""},
     { title: "", url: ""},
 ]
