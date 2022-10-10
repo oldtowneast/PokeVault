@@ -1,13 +1,97 @@
-``` shell
-tar -cvf 2022-09-25_PokéVault.tar.gz --exclude={"/media/wm/Birch/Church/Obsidian/PokéVault/.trash","/media/wm/Birch/Church/Obsidian/PokéVault/.obsidian"} /media/wm/Birch/Church/Obsidian/PokéVault/
+---
+created: 2022-10-06T13:16:10 (UTC -05:00)
+tags: []
+source: https://www.pokemon.com/us/pokedex/Conkeldurr
+author: 
+---
 
-tar -cvf 2022-09-25_PokéTrash.tar.gz /media/wm/Birch/Church/Obsidian/PokéVault/.trash
+# Conkeldurr | Pokédex
 
-ls /media/wm/Birch/Church/Obsidian/PokéVault/.obsidian/plugins |& tee -a 2022-09-25_PokéVaultPlugins.md
+> ## Excerpt
+> When going all out, this Pokémon throws aside its concrete pillars and leaps at opponents to pummel them with its fists.
 
-cp /media/wm/Birch/wn/UnArchives/PokéVault-backups/2022/Q3/2022-09-25_PokéVaultPlugins.md "/media/wm/Birch/Church/Obsidian/PokéVault/zxc/pl"
-
-cp /media/wm/Birch/wn/UnArchives/PokéVault-backups/2022/Q3/2022-09-25_PokéVaultPlugins.md "/media/wm/Birch/Church/GitHub/PokeVault/Active-Plugins.md"
-
-cp -u -r /media/wm/Birch/Church/Obsidian/PokéVault /media/wm/Birch/Church/GitHub/PokeVault
-```
+---
+-   ![None](https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep34_ss01.jpg)
+    
+    ##### The Forest Champion!
+    
+    S17 | Episode 34
+    
+    [The Forest Champion! - S17 | Episode 34](https://www.pokemon.com/us/pokemon-episodes/17_34-the-forest-champion/ "S17 | Episode 34")
+-   ![None](https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep23_ss01.jpg)
+    
+    ##### Ash and N: A Clash of Ideals!
+    
+    S16 | Episode 23
+    
+    [Ash and N: A Clash of Ideals! - S16 | Episode 23](https://www.pokemon.com/us/pokemon-episodes/16_23-ash-and-n-a-clash-of-ideals/ "S16 | Episode 23")
+-   ![None](https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep23_ss01.jpg)
+    
+    ##### Search for the Clubultimate!
+    
+    S15 | Episode 23
+    
+    [Search for the Clubultimate! - S15 | Episode 23](https://www.pokemon.com/us/pokemon-episodes/15_23-search-for-the-clubultimate/ "S15 | Episode 23")
+-   ![None](https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep38_ss01.jpg)
+    
+    ##### Summer of Discovery!
+    
+    S17 | Episode 38
+    
+    [Summer of Discovery! - S17 | Episode 38](https://www.pokemon.com/us/pokemon-episodes/17_38-summer-of-discovery/ "S17 | Episode 38")
+-   ![None](https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep24_ss01.jpg)
+    
+    ##### A Clubsplosion of Excitement!
+    
+    S15 | Episode 24
+    
+    [A Clubsplosion of Excitement! - S15 | Episode 24](https://www.pokemon.com/us/pokemon-episodes/15_24-a-clubsplosion-of-excitement/ "S15 | Episode 24")
+-   ![None](https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep22_ss01.jpg)
+    
+    ##### The Clubsplosion Begins!
+    
+    S15 | Episode 22
+    
+    [The Clubsplosion Begins! - S15 | Episode 22](https://www.pokemon.com/us/pokemon-episodes/15_22-the-clubsplosion-begins/ "S15 | Episode 22")
+-   ![None](https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep34_ss01.jpg)
+    
+    ##### The Forest Champion!
+    
+    S17 | Episode 34
+    
+    [The Forest Champion! - S17 | Episode 34](https://www.pokemon.com/us/pokemon-episodes/17_34-the-forest-champion/ "S17 | Episode 34")
+-   ![None](https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep23_ss01.jpg)
+    
+    ##### Ash and N: A Clash of Ideals!
+    
+    S16 | Episode 23
+    
+    [Ash and N: A Clash of Ideals! - S16 | Episode 23](https://www.pokemon.com/us/pokemon-episodes/16_23-ash-and-n-a-clash-of-ideals/ "S16 | Episode 23")
+-   ![None](https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep23_ss01.jpg)
+    
+    ##### Search for the Clubultimate!
+    
+    S15 | Episode 23
+    
+    [Search for the Clubultimate! - S15 | Episode 23](https://www.pokemon.com/us/pokemon-episodes/15_23-search-for-the-clubultimate/ "S15 | Episode 23")
+-   ![None](https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep38_ss01.jpg)
+    
+    ##### Summer of Discovery!
+    
+    S17 | Episode 38
+    
+    [Summer of Discovery! - S17 | Episode 38](https://www.pokemon.com/us/pokemon-episodes/17_38-summer-of-discovery/ "S17 | Episode 38")
+-   ![None](https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep24_ss01.jpg)
+    
+    ##### A Clubsplosion of Excitement!
+    
+    S15 | Episode 24
+    
+    [A Clubsplosion of Excitement! - S15 | Episode 24](https://www.pokemon.com/us/pokemon-episodes/15_24-a-clubsplosion-of-excitement/ "S15 | Episode 24")
+-   ![None](https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep22_ss01.jpg)
+    
+    ##### The Clubsplosion Begins!
+    
+    S15 | Episode 22
+    
+    [The Clubsplosion Begins! - S15 | Episode 22](https://www.pokemon.com/us/pokemon-episodes/15_22-the-clubsplosion-begins/ "S15 | Episode 22")

@@ -4,22 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "9630e965af932641",
+        "id": "f30f1c4bd5ac3960",
         "type": "tabs",
         "children": [
           {
-            "id": "23b88a8c9aabb272",
+            "id": "87e1e70d46c2d185",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OTD/2022-10-03.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -41,12 +38,24 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "8ee5f2fdb4647420",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "§ Science Lab/Big Ass Lists 2.0/101-200.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 292.5,
     "collapsed": true
   },
   "right": {
@@ -58,14 +67,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "44355760484ca5d5",
+            "id": "bacb41a7edef4b65",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "§ Science Lab/§ Lost Origins.md",
-                "mode": "preview",
+                "file": "9 - meta/Searchable list.md",
+                "mode": "source",
                 "source": false
               },
               "pinned": true
@@ -111,7 +120,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OTD/2022-10-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +136,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OTD/2022-10-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +146,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "OTD/2022-10-03.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -151,17 +156,20 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "23b88a8c9aabb272",
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "87e1e70d46c2d185",
   "lastOpenFiles": [
-    "9 - meta/$tmp/$$tmp/BETA BCK.md",
-    "§ Inbox/570 Hisuian Zorua.md",
-    "§ Science Lab/§ Lost Origins.md",
-    "Zero 1.md",
-    "§ Science Lab/DV Tests/Pogo Checklist.md",
-    "0 - Sets/pgoSet/010 Charizard.md",
-    "0 - Sets/pgoSet/006 Spinarak.md",
-    "§ Inbox/571 Hisuian Zoroark.md",
-    "§ Inbox/571 Zoroark.md",
-    "§ Inbox/570 Zorua.md"
+    "9 - meta/Closing Commands.md",
+    "0 - Pokedex/071 Victreebel.md",
+    "§ Inbox/Victreebel | Pokédex | More at Pokemon.com.md",
+    "0 - Pokedex/001 Bulbasaur.md",
+    "0 - Pokedex/002 Ivysaur.md",
+    "0 - Pokedex/003 Venusaur.md",
+    "0 - Pokedex/004 Charmander.md",
+    "0 - Pokedex/005 Charmeleon.md",
+    "0 - Pokedex/006 Charizard.md",
+    "0 - Pokedex/007 Squirtle.md"
   ]
 }

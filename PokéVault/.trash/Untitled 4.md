@@ -1,1 +1,0 @@
-Evolutions:: [[133 Eevee|Eevee]] > [[134 Vaporeon|Vaporeon]] [[135 Jolteon|Jolteon]] [[136 Flareon|Fareon]] [[196 Epseon|Epseon]] [[197 Umbreon|Umbreon]] [[470 Leafeon|Leafeon]] [[471 Glaceon|Glaceon]] [[700 Sylveon|Sylveon]] 

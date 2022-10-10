@@ -8,5 +8,6 @@
   "spellcheck": true,
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "9 - meta/att/",
-  "showFrontmatter": false
+  "showFrontmatter": false,
+  "showInlineTitle": true
 }

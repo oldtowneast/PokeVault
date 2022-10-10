@@ -47,7 +47,7 @@
 17. [[459 Snover|Snover]]
 18. [[460 Abomasnow|Abomasnow]]
 19. [[550 Basculin (Red-Striped Form)]]
-20. [[902 Basculegion]]
+20. [[902 Basculegion (Male)|Basculegion]]
 21. [[580 Ducklett|Ducklett]]
 22. [[581 Swanna|Swanna]]
 23. [[646 Kyurem|Kyurem]] V

@@ -1,5 +1,5 @@
 ---
-alias: Basculegion, 902 Basculegion
+alias: Basculegion
 self: "[[902 Basculegion (Male)|Basculegion]]"
 image: "![[902 Basculegion (Male).png]]"
 ---

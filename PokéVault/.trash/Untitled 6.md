@@ -1,1 +1,0 @@
-[[§ Inbox/Card Tests/001 Bulbasaur|Bulbasaur]]
