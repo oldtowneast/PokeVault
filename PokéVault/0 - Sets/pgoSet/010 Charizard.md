@@ -5,7 +5,7 @@ image: "![[010 Charizard.png]]"
 
 ![[010 Charizard.png|360]]
 
-[[Charizard<% tp.file.cursor(30) %>
+[[006 Charizard|Charizard]]
 
 Number:: 010/078
 

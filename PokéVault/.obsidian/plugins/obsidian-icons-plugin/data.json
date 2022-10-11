@@ -3,5 +3,5 @@
   "enableRir": true,
   "enableFas": true,
   "enableFar": true,
-  "aliasMapping": "yt=fas:Youtube\noff=ris:ShieldCheck"
+  "aliasMapping": "yt=fas:Youtube\noff=ris:ShieldCheck\nbest=fas:Trophy\nstar=fas:Star"
 }

@@ -4,23 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "2db9fcc2dbf9895d",
+        "id": "c2f0b087b6184e52",
         "type": "tabs",
         "children": [
           {
-            "id": "74ced5ff6debb3f0",
+            "id": "0ae834fc88113813",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "9 - meta/Closing Commands.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -42,26 +37,13 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "8ee5f2fdb4647420",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "§ Science Lab/Big Ass Lists 2.0/101-200.md",
-                "mode": "preview",
-                "source": false
-              },
-              "pinned": true
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f49b3148bec9107c",
@@ -72,16 +54,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bacb41a7edef4b65",
+            "id": "44355760484ca5d5",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "9 - meta/Searchable list.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "pinned": true
             }
           },
@@ -125,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9 - meta/Closing Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9 - meta/Closing Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,9 +129,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "9 - meta/Closing Commands.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -168,17 +142,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "74ced5ff6debb3f0",
+  "active": "0ae834fc88113813",
   "lastOpenFiles": [
-    "3 - Resources/Plain Text Lists/§ Lost Origins plaintxt.md",
-    "3 - Resources/Pokémon Resources.md",
-    "§ Inbox/Gloom | Lost Origin | Pokémon TCG Guru.md",
-    "§ Inbox/Untitled.md",
-    "9 - meta/att/cl/lost-origin-card-list.pdf",
-    "§ Science Lab/Pokémon TCG Checklists.md",
-    "0 - TCG Sets/Trick or Trade/Trick or Trade UNOFFICIAL Numbered List.md",
-    "0 - TCG Sets/Trick or Trade/Trick or Trade image list.md",
-    "0 - TCG Sets/Trick or Trade/Trick or Trade checklist.md",
-    "§ Science Lab/§ Lost Origins.md"
+    "9 - meta/PokéVault livestream description.md",
+    "9 - meta/Listen to Music.md",
+    "Zero 1.md",
+    "§ Inbox/Water.md",
+    "§ Inbox/155 Cyndaquil.md",
+    "§ Inbox/156 Quilava.md",
+    "3 - Resources/External PokéVault Links.md",
+    "9 - meta/Extended Palette settings for Style Settings Plugin.md",
+    "9 - meta/$tmp/$$tmp/1.3 doesNotEvolve.md",
+    "3 - Resources/clickablePokedexList/101-200.md"
   ]
 }

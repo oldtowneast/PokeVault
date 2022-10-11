@@ -1,5 +1,9 @@
 ---
-cssClasses: cards, cards-cover, cards-2-3, table-max
+cssClasses: 
+- cards
+- cards-cover
+- cards-2-3
+- table-max
 ---
 
 ```dataview

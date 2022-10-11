@@ -17,43 +17,18 @@
     },
     {
       "type": "file",
-      "title": "Pokémon TCG",
-      "path": "3 - Resources/Pokémon TCG/Pokémon TCG.md"
-    },
-    {
-      "type": "file",
-      "title": "DV List from betaPokedex",
-      "path": "1 - Dataviews/List from Pokedex.md"
-    },
-    {
-      "type": "file",
       "title": "PoGo List",
       "path": "3 - Resources/Pokémon TCG/Sets/Pokemon Go/PoGo List.md"
     },
     {
       "type": "file",
-      "title": "Closing Commands",
-      "path": "9 - meta/Closing Commands.md"
+      "title": "Pogo Checklist",
+      "path": "1 - Dataviews/Pogo Checklist.md"
     },
     {
       "type": "file",
-      "title": "PokeVault README",
-      "path": "9 - meta/PokeVault README.md"
-    },
-    {
-      "type": "file",
-      "title": "Lost Origins",
-      "path": "§ Science Lab/§ Lost Origins.md"
-    },
-    {
-      "type": "file",
-      "title": "Pokemon List by Number - National Dex Numbers | Slowpoke Tail 1",
-      "path": "3 - Resources/Plain Text Lists/Big Ass Plain List 2.0.md"
-    },
-    {
-      "type": "file",
-      "title": "§ Lost Origins plaintxt",
-      "path": "3 - Resources/Plain Text Lists/§ Lost Origins plaintxt.md"
+      "title": "PokéVault Resources",
+      "path": "3 - Resources/PokéVault Resources.md"
     }
   ]
 }

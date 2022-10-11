@@ -1,0 +1,13 @@
+[GitHub - oldtowneast/PokeVault: Pokédex x Obsidian x Minimal x Dataview](https://github.com/oldtowneast/PokeVault)
+[Home · oldtowneast/PokeVault Wiki](https://github.com/oldtowneast/PokeVault/wiki)
+[Meditative Flow - YouTube](https://www.youtube.com/playlist?list=OLAK5uy_kF6YLJY8dsuofyZIhWEb4MOnEhy_xiHDM)
+[Meeting Under The Enchanted Oak - YouTube](https://www.youtube.com/playlist?list=OLAK5uy_l0YpASP-pgS6bfEF9qccsfZ62W1WoHJSY)
+[obs81 - YouTube](https://www.youtube.com/channel/UCBe_nit3C6l0JoIFtlxgbog)
+[Raimu - Moss Carpet [from 'Earthly Spirits'] - YouTube](https://www.youtube.com/watch?v=DslcG7rZMW8&list=OLAK5uy_nJVN7egQgOkA4yBwVCJEvFKvMj0PY8n50)
+[Raimu - We Met in the Forest [from ‘Sons of the Dew’] - YouTube](https://www.youtube.com/watch?v=sw9gFoiCO10&list=OLAK5uy_kVlQnd5wzyi0q_sk21Ak2BSqFaPQTvuJ8)
+[The Spirit Within - YouTube](https://www.youtube.com/watch?v=dzljDCe9Qbw&list=OLAK5uy_kyU_zvvtVldr0X0Un6KNKKL4EmFsaz1Oo)
+[Wayfarers - YouTube](https://www.youtube.com/playlist?list=OLAK5uy_lcKxNBROfWa9QoS2caLUzSDIgyVpiqubM)
+
+[Music | Raimu](https://raimumusic.bandcamp.com/music)
+[Earthly Spirits | Raimu](https://raimumusic.bandcamp.com/album/earthly-spirits)
+[Kitsune To Take - EP | Raimu](https://raimumusic.bandcamp.com/album/kitsune-to-take-ep)

@@ -5,8 +5,8 @@
     "fontSize": 18,
     "iconColor": "#ffe441",
     "recentlyUsedIcons": [
-      "FasHotTubPerson",
-      "Fas0"
+      "FasArrowPointer",
+      "FasFire"
     ],
     "recentlyUsedIconsSize": 2,
     "rules": [],
@@ -20,7 +20,7 @@
   "0 - Pokedex": "PoPokeball",
   "1 - Dataviews": "FasCode",
   "4 - Archive": "FasBoxArchive",
-  "3 - Resources": "FasGem",
+  "3 - Resources": "FasBuildingColumns",
   "9 - meta": "FasGear",
   "OTD": "FasCalendarDays",
   "§ Inbox": "FasSection",
@@ -28,5 +28,5 @@
   "1 - Dataviews/Pokédex Overview.md": "FasFire",
   "1 - Dataviews/Pokémon Go Set Overview.md": "FasFire",
   "0 - Sets": "Fas0",
-  "§ Science Lab": "FasHotTubPerson"
+  "1 - Dataviews/Pogo Checklist.md": "FasFire"
 }
