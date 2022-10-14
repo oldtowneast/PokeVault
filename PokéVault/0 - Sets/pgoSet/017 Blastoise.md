@@ -12,7 +12,7 @@ Number:: 017/078
 Rarity:: Holo Rare
 
 > [!tldr]+ Inventory
-> - [ ] Holo
+> - [x] Holo
 > - [ ] Reverse Holo
 
 Owned:: 

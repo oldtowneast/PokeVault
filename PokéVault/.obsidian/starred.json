@@ -29,6 +29,16 @@
       "type": "file",
       "title": "PokéVault Resources",
       "path": "3 - Resources/PokéVault Resources.md"
+    },
+    {
+      "type": "file",
+      "title": "Trick or Trade image list",
+      "path": "3 - Resources/TCG/setRelated/Trick or Trade/Trick or Trade image list.md"
+    },
+    {
+      "type": "file",
+      "title": "trickOrTrade",
+      "path": "§ Inbox/trickOrTrade.md"
     }
   ]
 }

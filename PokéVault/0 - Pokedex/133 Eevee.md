@@ -21,5 +21,4 @@ Weaknesses:: [[Fighting]]
 
 Description:: It has the ability to alter the composition of its body to suit its surrounding environment.
 
-Evolutions:: [[Eevee]] > Vaporeon Jolteon Flareon Epseon Umbreon Leafeon Glaceon [[700 Sylveon|Sylveon]]
-
+Evolutions:: [[Eevee]] > Vaporeon Jolteon Flareon [[196 Espeon|Espeon]] Umbreon Leafeon Glaceon [[700 Sylveon|Sylveon]]

@@ -12,7 +12,7 @@ Number:: 064/078
 Rarity:: Uncommon
 
 > [!tldr]+ Inventory
-> - [ ] Standard
+> - [x] Standard
 > - [ ] Reverse Holo
 
 Owned:: 

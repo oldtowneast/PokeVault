@@ -7,6 +7,8 @@ emoji:
 Building a Pokédex in ObsidianMD!
 ----
 
+Obsidian, Pokémon, Obsidian, the Pokédex, Minimal, Templater, Dataview, Oh my!
+
 🎁 TRAINER CODES - ADD TO BE GIFTED
 
 0170 4110 1824
@@ -36,3 +38,31 @@ Mastodon https://mastodon.online/web/@oldtowneast
 Telegram https://t.me/oldtowneast
 Twitter https://twitter.com/oldtowneast
 ```
+
+01.08 Building a Pokédex in Obsidian! | #workingInPublic #ObsidianMD #Pokémon
+
+----
+
+# for Odysee uploads
+
+## TITLE
+```
+01.01 Building a Pokédex in Obsidian
+```
+
+## URL
+
+```
+pokevault-0101
+```
+## DESCRIPTION
+
+```
+Obsidian, Pokémon, Obsidian, the Pokédex, Minimal, Templater, Dataview, Oh my!
+```
+## TAGS
+
+```
+workinginpublic, obsidian, dataview, templater, pokémon
+```
+

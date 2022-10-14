@@ -156,7 +156,7 @@ BlockType.CODE_SINGLE = new _BlockType("`", false, _BlockType.CODE_MULTI);
   _BlockType.CODE_MULTI.otherType0 = _BlockType.CODE_SINGLE;
 })();
 BlockType.SINGLE_TYPES = [_BlockType.DOLLAR_SINGLE, _BlockType.CODE_SINGLE];
-function isInLatexBlock(editor, cursorPos, triggerInCodeBlocks) {
+function getLatexBlockType(editor, cursorPos, triggerInCodeBlocks) {
   var _a;
   const frontMatterBounds = (_a = getFrontMatterBounds(editor)) != null ? _a : { startLine: -1, endLine: -1 };
   const blockTypeStack = [];
@@ -179,21 +179,21 @@ function isInLatexBlock(editor, cursorPos, triggerInCodeBlocks) {
     }
   }
   if (blockTypeStack.length < 1)
-    return false;
+    return null;
   let currentIndex = 0;
   while (true) {
     if (currentIndex >= blockTypeStack.length)
-      return false;
+      return null;
     const currentBlock = blockTypeStack[currentIndex];
     const otherBlockIndex = findIndex(blockTypeStack, ({ type }) => type === currentBlock.type, currentIndex + 1);
     if (otherBlockIndex === -1) {
       if (!triggerInCodeBlocks && currentBlock.type.isCodeBlock)
-        return false;
+        return null;
       if (currentBlock.type.isCodeBlock || currentBlock.type === BlockType.DOLLAR_SINGLE && currentBlock.line !== cursorPos.line) {
         currentIndex++;
         continue;
       }
-      return true;
+      return currentBlock.type;
     } else {
       currentIndex = otherBlockIndex + 1;
     }
@@ -435,15 +435,19 @@ var LatexSuggestionProvider = class {
     if (!settings.latexProviderEnabled || !context.query || context.query.length < settings.latexMinWordTriggerLength)
       return [];
     let editor = context.editor;
-    if (!isInLatexBlock(editor, context.start, settings.latexTriggerInCodeBlocks))
+    const latexBlockType = getLatexBlockType(editor, context.start, settings.latexTriggerInCodeBlocks);
+    const isSingleBlock = latexBlockType === BlockType.DOLLAR_SINGLE;
+    if (!latexBlockType)
       return [];
     const query = maybeLowerCase(context.query, settings.latexIgnoreCase);
     const isSeparatorBackslash = context.separatorChar === "\\";
     return this.loadedCommands.filter((s) => getSuggestionDisplayName(s, settings.latexIgnoreCase).contains(query)).map((s) => {
-      const replacement = getSuggestionReplacement(s);
+      let replacement = getSuggestionReplacement(s);
+      replacement = isSeparatorBackslash ? replacement.substring(1) : replacement;
+      replacement = isSingleBlock ? replacement.replace(/\n/g, "") : replacement;
       return {
         displayName: getSuggestionDisplayName(s),
-        replacement: isSeparatorBackslash ? replacement.substring(1) : replacement,
+        replacement,
         priority: getSuggestionDisplayName(s, settings.latexIgnoreCase).indexOf(query)
       };
     }).sort((a, b) => {
@@ -2299,6 +2303,7 @@ var CompletrPlugin = class extends import_obsidian5.Plugin {
           modifiers: []
         }
       ],
+      repeatable: true,
       editorCallback: (editor) => {
         this.suggestionPopup.selectNextItem(1 /* NEXT */);
       },
@@ -2313,6 +2318,7 @@ var CompletrPlugin = class extends import_obsidian5.Plugin {
           modifiers: []
         }
       ],
+      repeatable: true,
       editorCallback: (editor) => {
         this.suggestionPopup.selectNextItem(-1 /* PREVIOUS */);
       },

@@ -1,8 +1,14 @@
 {
   "searches": [
     {
-      "name": "Pokedex",
+      "tags": [],
       "query": "https://www.pokemon.com/us/pokedex/{{query}}",
+      "name": "Pokedex",
+      "encode": true
+    },
+    {
+      "name": "Guru site",
+      "query": "https://pokemontcg.guru/search?q={{query}}",
       "tags": [],
       "encode": true
     }

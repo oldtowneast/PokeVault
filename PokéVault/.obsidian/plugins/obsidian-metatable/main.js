@@ -1297,7 +1297,7 @@ function normaliseTags(data) {
   if (!Array.isArray(data) && typeof data != "string") {
     throw new Error("Tags must be an array or a string");
   }
-  const result = typeof data == "string" ? data.split(",").map((x) => x.trim()) : data;
+  const result = typeof data == "string" ? data.split(",").flatMap((x) => x.trim().split(" ")) : data;
   return result.filter((x) => x && x.length != 0);
 }
 function filterKeys(entries, keys, mode) {
@@ -1572,8 +1572,8 @@ function Tag(props) {
   const {
     openTag
   } = useMixture();
-  const safeValue = encodeURI(props.value);
-  const url = `#${safeValue}`;
+  const url = () => `#${props.value}`;
+  const safeValue = () => encodeURI(props.value);
   const clickHandler = (event) => {
     const trigger = event.target;
     event.preventDefault();
@@ -1582,10 +1582,18 @@ function Tag(props) {
   return (() => {
     const _el$ = _tmpl$8.cloneNode(true);
     _el$.$$click = clickHandler;
-    setAttribute(_el$, "href", url);
-    setAttribute(_el$, "data-href", url);
-    setAttribute(_el$, "part", `tag ${safeValue}`);
     insert(_el$, () => props.value);
+    createRenderEffect((_p$) => {
+      const _v$ = url(), _v$2 = url(), _v$3 = `tag ${safeValue()}`;
+      _v$ !== _p$._v$ && setAttribute(_el$, "href", _p$._v$ = _v$);
+      _v$2 !== _p$._v$2 && setAttribute(_el$, "data-href", _p$._v$2 = _v$2);
+      _v$3 !== _p$._v$3 && setAttribute(_el$, "part", _p$._v$3 = _v$3);
+      return _p$;
+    }, {
+      _v$: void 0,
+      _v$2: void 0,
+      _v$3: void 0
+    });
     return _el$;
   })();
 }
