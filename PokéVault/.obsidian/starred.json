@@ -13,7 +13,7 @@
     {
       "type": "file",
       "title": "Minimal Helper Class x Dataview",
-      "path": "1 - Dataviews/Pokédex Overview.md"
+      "path": "1 - Dataviews/Pokédex - Gallery.md"
     },
     {
       "type": "file",
@@ -23,7 +23,7 @@
     {
       "type": "file",
       "title": "Pogo Checklist",
-      "path": "1 - Dataviews/Pogo Checklist.md"
+      "path": "1 - Dataviews/GO - Checklist.md"
     },
     {
       "type": "file",
@@ -33,12 +33,17 @@
     {
       "type": "file",
       "title": "Trick or Trade image list",
-      "path": "3 - Resources/TCG/setRelated/Trick or Trade/Trick or Trade image list.md"
+      "path": "3 - Resources/TCG/setRelated/Trick or Trade/trickOrTrade-image grid.md"
     },
     {
       "type": "file",
       "title": "trickOrTrade",
       "path": "§ Inbox/trickOrTrade.md"
+    },
+    {
+      "type": "file",
+      "title": "Trick or Trade Card List",
+      "path": "4 - Archive/oldTCG/Trick or Trade Card List.md"
     }
   ]
 }

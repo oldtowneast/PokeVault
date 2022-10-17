@@ -51,7 +51,6 @@
 051 Dugtrio
 052 Meowth
 053 Persian
-
 054 Psyduck
 055 Golduck
 056 Mankey

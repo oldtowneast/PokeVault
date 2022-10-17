@@ -5,8 +5,8 @@
     "fontSize": 18,
     "iconColor": "#ffe441",
     "recentlyUsedIcons": [
-      "FasArrowPointer",
-      "FasFire"
+      "FasCheck",
+      "FasGrip"
     ],
     "recentlyUsedIconsSize": 2,
     "rules": [],
@@ -24,9 +24,15 @@
   "9 - meta": "FasGear",
   "OTD": "FasCalendarDays",
   "§ Inbox": "FasSection",
-  "1 - Dataviews/Pokédex Overview.md": "FasFire",
-  "1 - Dataviews/Pokémon Go Set Overview.md": "FasFire",
   "0 - Sets": "Fas0",
-  "1 - Dataviews/Pogo Checklist.md": "FasFire",
-  "0 - TCG Box Details": "FasLayerGroup"
+  "0 - TCG Box Details": "FasLayerGroup",
+  "1 - Dataviews/Pokédex - Gallery.md": "FasGrip",
+  "1 - Dataviews/GO - Gallery.md": "FasGrip",
+  "1 - Dataviews/GO - Rarity Table.md": "FasRectangleList",
+  "1 - Dataviews/Pokédex - List.md": "FasRectangleList",
+  "1 - Dataviews/Pokédex - Gallery wDesc.md": "FasGrip",
+  "1 - Dataviews/Trick or Trade - Gallery.md": "FasGrip",
+  "§ The LAB": "FasCube",
+  "1 - Dataviews/Trick or Trade - Checklist.md": "FasCheck",
+  "1 - Dataviews/GO - Checklist.md": "FasCheck"
 }

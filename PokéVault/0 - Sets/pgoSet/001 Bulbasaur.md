@@ -12,7 +12,7 @@ Number:: 001/078
 Rarity:: Common
 
 > [!tldr]+ Inventory
-> - [x] Standard
+> - [ ] Standard
 > - [ ] Reverse Holo
 
 Owned:: 

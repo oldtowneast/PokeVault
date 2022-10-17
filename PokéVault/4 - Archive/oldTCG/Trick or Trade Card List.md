@@ -1,0 +1,75 @@
+---
+source: https://www.codedyellow.com/pokemon-trick-or-trade-card-list/
+---
+
+Trick or Trade Card List by Rarity
+#### Holo Rare Cards
+Chandelure  (Rebel Clash)
+Darkrai  (Darkness Ablaze)
+Dusknoir  (Brilliant Stars)
+Gengar  (Chilling Reign)
+Gourgeist  (Evolving Skies)
+Hatterene  (Chilling Reign)
+Mewtwo  (Brilliant Stars)
+Mimikyu  (Darkness Ablaze)
+Mismagius (Astral Radiance)
+Trevenant  (Rebel Clash)
+#### Uncommon Cards
+Ariados  (Darkness Ablaze)
+Dusclops  (Brilliant Stars)
+Hattrem  (Chilling Reign)
+Haunter (Chilling Reign)
+Lampent  (Rebel Clash)
+Polteagist  (Darkness Ablaze)
+#### Common Cards
+Cubone  (Battle Styles)
+Duskull  (Brilliant Stars)
+Gastly  (Chilling Reign)
+Hatenna  (Champion’s Path)
+Litwick (Rebel Clash)
+Misdreavus  (Astral Radiance)
+Murkrow  (Battle Styles)
+Nickit  (Astral Radiance)
+Phantump  (Fusion Strike)
+Pikachu  (Evolving Skies)
+Pumpkaboo  (Evolving Skies)
+Sinistea (Darkness Ablaze)
+Spinarak  (Darkness Ablaze)
+Zubat  (Battle Styles)
+
+----
+
+Trick or Trade Card List (by set)
+ 
+
+015/192  Trevenant  (Rebel Clash)
+031/192  Litwick  (Rebel Clash)
+032/192  Lampent  (Rebel Clash)
+033/192   Chandelure  (Rebel Clash)
+018/073  Hatenna  (Champion’s Path)
+081/189   Mimikyu  (Darkness Ablaze)
+082/189  Sinistea  (Darkness Ablaze)
+083/189  Polteagist  (Darkness Ablaze)
+102/189  Spinarak  (Darkness Ablaze)
+103/189  Ariados  (Darkness Ablaze)
+105/189   Darkrai  (Darkness Ablaze)
+069/163  Cubone  (Battle Styles)
+089/163  Zubat  (Battle Styles)
+093/163  Murkrow  (Battle Styles)
+
+055/198  Gastly  (Chilling Reign)
+056/198  Haunter  (Chilling Reign)
+057/198   Gengar  (Chilling Reign)
+072/198  Hattrem  (Chilling Reign)
+073/198   Hatterene  (Chilling Reign)
+049/203  Pikachu  (Evolving Skies)
+076/203  Pumpkaboo  (Evolving Skies)
+077/203   Gourgeist  (Evolving Skies)
+016/264  Phantump  (Fusion Strike)
+056/172   Mewtwo  (Brilliant Stars)
+060/172  Duskull   (Brilliant Stars)
+061/172  Dusclops  (Brilliant Stars)
+062/172   Dusknoir  (Brilliant Stars)
+058/189  Misdreavus  (Astral Radiance)
+059/189   Mismagius  (Astral Radiance)
+103/189  Nickit  (Astral Radiance)

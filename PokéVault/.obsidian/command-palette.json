@@ -1,5 +1,6 @@
 {
   "pinned": [
-    "note-refactor-obsidian:app:extract-selection-first-line"
+    "note-refactor-obsidian:app:extract-selection-first-line",
+    "open-with-default-app:show"
   ]
 }

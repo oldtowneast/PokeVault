@@ -4,7 +4,7 @@ self: "[[282 Mega Gardevoir|Mega Gardevoir]]"
 image: "![[282 Mega Gardevoir.png]]"
 ---
 
-![[282 Mega Gardevoir.png]]
+![[9 - meta/att/pd/282 Mega Gardevoir.png]]
 
 Number:: 282
 
