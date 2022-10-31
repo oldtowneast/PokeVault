@@ -15,7 +15,6 @@
   "obsidian-minimal-settings",
   "obsidian-hider",
   "obsidian-style-settings",
-  "obsidian-completr",
   "obsidian-sortable",
   "obsidian-contextual-typography",
   "obsidian-icon-folder",
@@ -31,5 +30,7 @@
   "search-on-internet",
   "auto-note-mover",
   "obsidian-charts",
-  "obsidian-banners"
+  "obsidian-banners",
+  "obsidian-advanced-uri",
+  "various-complements"
 ]

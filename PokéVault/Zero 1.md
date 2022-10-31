@@ -3,7 +3,7 @@ alias: z
 ---
 
 ![[logo2.png]]
-<p style="font-size: 1.8em; color: #bd93f9; text-align: center">🎁 Trainer Code: - Add to Be Gifted! <br /> 0170 4110 1824</p>
+<p style="font-size: 1.8em; color: #8aadf4; text-align: center">🎁 Trainer Code: - Add to Be Gifted! <br /> 0170 4110 1824</p>
 
 # Inbox
 

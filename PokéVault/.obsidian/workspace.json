@@ -4,19 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9a70332dcfd1c36c",
+        "id": "d77629ab42fcb38a",
         "type": "tabs",
         "children": [
           {
-            "id": "e123aafec8f15862",
+            "id": "02b8c0d8016d8f7f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "9 - meta/Closing Commands.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -40,13 +43,31 @@
             }
           },
           {
-            "id": "dacc7d15532c8f79",
+            "id": "0edf59f677e01837",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "abcb01e326a624df",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "9 - meta/Closing Commands.md"
+              }
+            }
+          },
+          {
+            "id": "a128a87b7a536694",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Resources/clickablePokedexList/201-300.md",
+                "file": "3 - Resources/clickablePokedexList/301-400.md",
                 "mode": "preview",
                 "source": false
               },
@@ -57,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 519.5
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f49b3148bec9107c",
@@ -68,6 +90,20 @@
         "type": "tabs",
         "children": [
           {
+            "id": "710d2f4c9a39e2bc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "9 - meta/PokéVault Thanks You!.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
             "id": "bbd1f56687620784",
             "type": "leaf",
             "state": {
@@ -75,18 +111,6 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "37c9b17919602817",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "9 - meta/Searchable list.md",
-                "mode": "source",
-                "source": false
               }
             }
           },
@@ -106,19 +130,12 @@
             }
           },
           {
-            "id": "0edf59f677e01837",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "bb2d62a988431166",
+            "id": "75ea568b8a639c21",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "9 - meta/Closing Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,46 +147,35 @@
             }
           },
           {
-            "id": "01321714f838fa63",
+            "id": "66cad37b12e617ac",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "9 - meta/Closing Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "abcb01e326a624df",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "e123aafec8f15862",
+  "active": "02b8c0d8016d8f7f",
   "lastOpenFiles": [
-    "0 - TCG Box Details/Collections and shit/Pokémon TCG Darkrai VSTAR Premium Collection  Pokemon.com.md",
-    "0 - TCG Box Details/Collections and shit/Eevee Evolutions Premium Collection.md",
-    "0 - TCG Box Details/Collections and shit/Arceus VSTAR Premium Collection.md",
-    "9 - meta/PokéVault livestream description.md",
+    "9 - meta/Closing Commands.md",
+    "9 - meta/PokéVault Thanks You!.md",
+    "§ The LAB/1 - Dataviews/Trick or Trade - Checklist.md",
+    "9 - meta/livestream/PokéVault livestream description.md",
+    "9 - meta/livestream/Pre-Stream checklist.md",
+    "9 - meta/livestream/PokéVault for Odysee.md",
+    "9 - meta/livestream/PokéVault livestream title.md",
     "Zero 1.md",
-    "1 - Dataviews/Pokédex - Gallery.md",
-    "0 - Pokedex/064 Mega Alakazam.md",
-    "§ Inbox/282 Mega Gardevoir.md",
-    "0 - Pokedex/282 Mega Gardevoir.md",
-    "§ Inbox/300 Skitty.md"
+    "§ Inbox/341 Corphish.md",
+    "3 - Resources/clickablePokedexList/301-400.md"
   ]
 }

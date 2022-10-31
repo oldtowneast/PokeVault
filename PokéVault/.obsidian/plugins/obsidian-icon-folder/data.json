@@ -3,7 +3,7 @@
     "migrated": true,
     "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
     "fontSize": 18,
-    "iconColor": "#ffe441",
+    "iconColor": "#eed49f",
     "recentlyUsedIcons": [
       "FasCheck",
       "FasGrip"
@@ -18,21 +18,21 @@
     }
   },
   "0 - Pokedex": "PoPokeball",
-  "1 - Dataviews": "FasCode",
   "4 - Archive": "FasBoxArchive",
   "3 - Resources": "FasBuildingColumns",
   "9 - meta": "FasGear",
   "OTD": "FasCalendarDays",
   "§ Inbox": "FasSection",
   "0 - Sets": "Fas0",
-  "0 - TCG Box Details": "FasLayerGroup",
-  "1 - Dataviews/Pokédex - Gallery.md": "FasGrip",
-  "1 - Dataviews/GO - Gallery.md": "FasGrip",
-  "1 - Dataviews/GO - Rarity Table.md": "FasRectangleList",
-  "1 - Dataviews/Pokédex - List.md": "FasRectangleList",
-  "1 - Dataviews/Pokédex - Gallery wDesc.md": "FasGrip",
-  "1 - Dataviews/Trick or Trade - Gallery.md": "FasGrip",
   "§ The LAB": "FasCube",
-  "1 - Dataviews/Trick or Trade - Checklist.md": "FasCheck",
-  "1 - Dataviews/GO - Checklist.md": "FasCheck"
+  "1 - Collections": "FasLayerGroup",
+  "§ The LAB/1 - Dataviews": "FasCode",
+  "§ The LAB/1 - Dataviews/GO - Checklist.md": "FasCheck",
+  "§ The LAB/1 - Dataviews/GO - Gallery.md": "FasGrip",
+  "§ The LAB/1 - Dataviews/GO - Rarity Table.md": "FasRectangleList",
+  "§ The LAB/1 - Dataviews/Pokédex - Gallery wDesc.md": "FasGrip",
+  "§ The LAB/1 - Dataviews/Pokédex - Gallery.md": "FasGrip",
+  "§ The LAB/1 - Dataviews/Pokédex - List.md": "FasRectangleList",
+  "§ The LAB/1 - Dataviews/Trick or Trade - Checklist.md": "FasCheck",
+  "§ The LAB/1 - Dataviews/Trick or Trade - Gallery.md": "FasGrip"
 }

@@ -5,5 +5,5 @@
   "cleanContent": true,
   "showNotifications": false,
   "include": ".*\\.md",
-  "mediaRootDirectory": "9 - meta/zxc/att/"
+  "mediaRootDirectory": "9 - meta/att/"
 }

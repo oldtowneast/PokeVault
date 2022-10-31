@@ -1,0 +1,203 @@
+{
+  "strategy": "default",
+  "matchStrategy": "prefix",
+  "maxNumberOfSuggestions": 5,
+  "maxNumberOfWordsAsPhrase": 3,
+  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 0,
+  "disableSuggestionsDuringImeOn": false,
+  "insertAfterCompletion": true,
+  "firstCharactersDisableSuggestions": ":/^",
+  "showMatchStrategy": true,
+  "showComplementAutomatically": true,
+  "showIndexingStatus": true,
+  "descriptionOnSuggestion": "Short",
+  "selectSuggestionKeys": "Enter",
+  "additionalCycleThroughSuggestionsKeys": "None",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
+  "openSourceFileKey": "None",
+  "propagateEsc": false,
+  "enableCurrentFileComplement": true,
+  "currentFileMinNumberOfCharacters": 0,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "enableCurrentVaultComplement": false,
+  "currentVaultMinNumberOfCharacters": 0,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": false,
+  "customDictionaryPaths": "https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt",
+  "columnDelimiter": "Tab",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
+  "caretLocationSymbolAfterComplement": "",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": false,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "intelligentSuggestionPrioritization": {
+    "maxDaysToKeepHistory": 30,
+    "maxNumberOfHistoryToKeep": 0
+  },
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "The Pokédex": {
+      "The Pokédex": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1666670983174
+        }
+      }
+    },
+    "resources": {
+      "resources": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1666671073513
+        }
+      }
+    },
+    "Rock": {
+      "Rock": {
+        "internalLink": {
+          "count": 6,
+          "lastUpdated": 1666678068508
+        }
+      }
+    },
+    "Ground": {
+      "Ground": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1666678471175
+        }
+      }
+    },
+    "Aggron": {
+      "Aggron": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1666675333288
+        }
+      }
+    },
+    "Medicham": {
+      "308 Medicham": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1666675592808
+        }
+      }
+    },
+    "Dark": {
+      "Dark": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1666677883108
+        }
+      }
+    },
+    "Electric": {
+      "Electric": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1666676534970
+        }
+      }
+    },
+    "Fighting": {
+      "Fighting": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1666677899730
+        }
+      }
+    },
+    "Bug": {
+      "Bug": {
+        "internalLink": {
+          "count": 5,
+          "lastUpdated": 1666677904396
+        }
+      }
+    },
+    "Ice": {
+      "Ice": {
+        "internalLink": {
+          "count": 4,
+          "lastUpdated": 1666678224704
+        }
+      }
+    },
+    "Dragon": {
+      "Dragon": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1666677710901
+        }
+      }
+    },
+    "Fire": {
+      "Fire": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1666677775554
+        }
+      }
+    },
+    "Poison": {
+      "Poison": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1666678227087
+        }
+      }
+    },
+    "Flying": {
+      "Flying": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1666678055876
+        }
+      }
+    },
+    "Fairy": {
+      "Fairy": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1666678216037
+        }
+      }
+    },
+    "Altaria": {
+      "Altaria": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1666678187157
+        }
+      }
+    },
+    "Psychic": {
+      "Psychic": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1666678370295
+        }
+      }
+    },
+    "Test": {
+      "Test": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1666766705146
+        }
+      }
+    }
+  }
+}

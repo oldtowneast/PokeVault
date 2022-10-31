@@ -12,23 +12,8 @@
     },
     {
       "type": "file",
-      "title": "Minimal Helper Class x Dataview",
-      "path": "1 - Dataviews/Pokédex - Gallery.md"
-    },
-    {
-      "type": "file",
       "title": "PoGo List",
       "path": "3 - Resources/Pokémon TCG/Sets/Pokemon Go/PoGo List.md"
-    },
-    {
-      "type": "file",
-      "title": "Pogo Checklist",
-      "path": "1 - Dataviews/GO - Checklist.md"
-    },
-    {
-      "type": "file",
-      "title": "PokéVault Resources",
-      "path": "3 - Resources/PokéVault Resources.md"
     },
     {
       "type": "file",
@@ -39,11 +24,6 @@
       "type": "file",
       "title": "trickOrTrade",
       "path": "§ Inbox/trickOrTrade.md"
-    },
-    {
-      "type": "file",
-      "title": "Trick or Trade Card List",
-      "path": "4 - Archive/oldTCG/Trick or Trade Card List.md"
     }
   ]
 }

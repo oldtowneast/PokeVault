@@ -1,0 +1,3 @@
+- [[Pokédex - List]]
+- [[Pokédex - Gallery]]
+- [[Pokédex - Gallery wDesc]]
