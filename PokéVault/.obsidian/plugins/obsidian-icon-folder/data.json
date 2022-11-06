@@ -26,13 +26,13 @@
   "0 - Sets": "Fas0",
   "§ The LAB": "FasCube",
   "1 - Collections": "FasLayerGroup",
-  "§ The LAB/1 - Dataviews": "FasCode",
-  "§ The LAB/1 - Dataviews/GO - Checklist.md": "FasCheck",
-  "§ The LAB/1 - Dataviews/GO - Gallery.md": "FasGrip",
-  "§ The LAB/1 - Dataviews/GO - Rarity Table.md": "FasRectangleList",
-  "§ The LAB/1 - Dataviews/Pokédex - Gallery wDesc.md": "FasGrip",
-  "§ The LAB/1 - Dataviews/Pokédex - Gallery.md": "FasGrip",
-  "§ The LAB/1 - Dataviews/Pokédex - List.md": "FasRectangleList",
-  "§ The LAB/1 - Dataviews/Trick or Trade - Checklist.md": "FasCheck",
-  "§ The LAB/1 - Dataviews/Trick or Trade - Gallery.md": "FasGrip"
+  "1 - Dataviews": "FasCode",
+  "1 - Dataviews/GO - Checklist.md": "FasCheck",
+  "1 - Dataviews/GO - Gallery.md": "FasGrip",
+  "1 - Dataviews/GO - Rarity Table.md": "FasRectangleList",
+  "1 - Dataviews/Pokédex - Gallery wDesc.md": "FasGrip",
+  "1 - Dataviews/Pokédex - Gallery.md": "FasGrip",
+  "1 - Dataviews/Pokédex - List.md": "FasRectangleList",
+  "1 - Dataviews/Trick or Trade - Checklist.md": "FasCheck",
+  "1 - Dataviews/Trick or Trade - Gallery.md": "FasGrip"
 }

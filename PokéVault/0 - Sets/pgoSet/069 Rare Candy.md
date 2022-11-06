@@ -1,5 +1,5 @@
 ---
-self: "[[069 Rare Candy|Rare]]"
+self: "[[069 Rare Candy|Rare Candy]]"
 image: "![[069 Rare Candy.png]]"
 ---
 

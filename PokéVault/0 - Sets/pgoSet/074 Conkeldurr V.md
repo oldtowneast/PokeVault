@@ -1,5 +1,5 @@
 ---
-self: "[[074 Conkeldurr V|Conkeldurr]]"
+self: "[[074 Conkeldurr V|Conkeldurr V]]"
 image: "![[074 Conkeldurr V.png]]"
 ---
 

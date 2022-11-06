@@ -4,22 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "d77629ab42fcb38a",
+        "id": "ed8db0c0e36fde50",
         "type": "tabs",
         "children": [
           {
-            "id": "02b8c0d8016d8f7f",
+            "id": "54dc5a533977215a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9 - meta/Closing Commands.md",
-                "mode": "preview",
+                "file": "9 - meta/PokéCommands.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -56,18 +57,18 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9 - meta/Closing Commands.md"
+                "file": "9 - meta/PokéCommands.md"
               }
             }
           },
           {
-            "id": "a128a87b7a536694",
+            "id": "835664c316295a5b",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Resources/clickablePokedexList/301-400.md",
+                "file": "3 - Resources/clickablePokedexList/401-500.md",
                 "mode": "preview",
                 "source": false
               },
@@ -128,35 +129,6 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "75ea568b8a639c21",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "9 - meta/Closing Commands.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "66cad37b12e617ac",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "9 - meta/Closing Commands.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
           }
         ]
       }
@@ -165,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "02b8c0d8016d8f7f",
+  "active": "54dc5a533977215a",
   "lastOpenFiles": [
-    "9 - meta/Closing Commands.md",
-    "9 - meta/PokéVault Thanks You!.md",
-    "§ The LAB/1 - Dataviews/Trick or Trade - Checklist.md",
-    "9 - meta/livestream/PokéVault livestream description.md",
-    "9 - meta/livestream/Pre-Stream checklist.md",
-    "9 - meta/livestream/PokéVault for Odysee.md",
-    "9 - meta/livestream/PokéVault livestream title.md",
-    "Zero 1.md",
-    "§ Inbox/341 Corphish.md",
-    "3 - Resources/clickablePokedexList/301-400.md"
+    "3 - Resources/clickablePokedexList/401-500.md",
+    "3 - Resources/clickablePokedexList/301-400.md",
+    "§ Inbox/384 Rayquaza.md",
+    "§ Inbox/398 Staraptor.md",
+    "§ Inbox/397 Staravia.md",
+    "§ Inbox/396 Starly.md",
+    "§ Inbox/395 Empoleon.md",
+    "§ Inbox/394 Prinplup.md",
+    "§ Inbox/393 Piplup.md",
+    "§ Inbox/392 Infernape.md"
   ]
 }

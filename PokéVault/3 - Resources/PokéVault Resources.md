@@ -1,11 +1,11 @@
 
-> [!note] 
+> [!note]
 > `off` Official Source
 
 # PokéVault Resources
 - [Obsidian](https://obsidian.md/)
 - [Minimal Documentation](https://minimal.guide/Home)
-## Obsidian-specific 
+## Obsidian-specific
 - [Progress bar for notes (Easy and powerful) with dataview - Share & showcase - Obsidian Forum](https://forum.obsidian.md/t/progress-bar-for-notes-easy-and-powerful-with-dataview/33144)
 - [GitHub - phibr0/obsidian-charts: Charts - Obsidian Plugin | Create editable, interactive and animated Charts in Obsidian via Chart.js](https://github.com/phibr0/obsidian-charts)
 
@@ -20,7 +20,6 @@
 
 ## YouTube Pokémon Resources
 - [`yt`The History of Pokemon - A Brief History|noembed](https://www.youtube.com/watch?v=Offw-N3PkoA)
-
 
 # TCG Related
 

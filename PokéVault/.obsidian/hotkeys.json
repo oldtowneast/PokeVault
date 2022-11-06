@@ -8,7 +8,14 @@
       "key": "Delete"
     }
   ],
-  "editor:save-file": [],
+  "editor:save-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "S"
+    }
+  ],
   "editor:follow-link": [
     {
       "modifiers": [
@@ -321,12 +328,6 @@
         "Mod"
       ],
       "key": "PageUp"
-    },
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "PageDown"
     }
   ],
   "search-on-internet:search-on-internet": [
@@ -923,9 +924,18 @@
   "starred:star-current-file": [
     {
       "modifiers": [
-        "Mod"
+        "Meta",
+        "Shift"
       ],
       "key": "S"
+    }
+  ],
+  "obsidian-sidetogglecmd:STC-toggle-both-sidebars": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "PageDown"
     }
   ]
 }

@@ -1,5 +1,5 @@
 ---
-self: "[[042 Alolan Raticate|Alolan]]"
+self: "[[042 Alolan Raticate|Alolan Raticate]]"
 image: "![[042 Alolan Raticate.png]]"
 ---
 

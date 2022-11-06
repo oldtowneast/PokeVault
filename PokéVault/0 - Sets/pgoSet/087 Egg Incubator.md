@@ -1,5 +1,5 @@
 ---
-self: "[[087 Egg Incubator|Egg]]"
+self: "[[087 Egg Incubator|Egg Incubator]]"
 image: "![[087 Egg Incubator.png]]"
 ---
 

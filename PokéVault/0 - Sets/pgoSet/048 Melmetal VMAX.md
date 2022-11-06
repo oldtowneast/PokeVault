@@ -1,5 +1,5 @@
 ---
-self: "[[048 Melmetal VMAX|Melmetal]]"
+self: "[[048 Melmetal VMAX|Melmetal VMAX]]"
 image: "![[048 Melmetal VMAX.png]]"
 ---
 

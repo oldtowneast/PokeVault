@@ -1,5 +1,5 @@
 ---
-self: "[[078 Professor's Research (Professor Willow)|Professor's]]"
+self: "[[078 Professor's Research (Professor Willow)|Professor's Research (Professor Willow)]]"
 image: "![[078 Professor's Research (Professor Willow).png]]"
 ---
 

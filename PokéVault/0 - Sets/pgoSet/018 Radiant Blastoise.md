@@ -1,5 +1,5 @@
 ---
-self: "[[018 Radiant Blastoise|Radiant]]"
+self: "[[018 Radiant Blastoise|Radiant Blastoise]]"
 image: "![[018 Radiant Blastoise.png]]"
 ---
 

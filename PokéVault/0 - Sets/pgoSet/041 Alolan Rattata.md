@@ -1,5 +1,5 @@
 ---
-self: "[[041 Alolan Rattata|Alolan]]"
+self: "[[041 Alolan Rattata|Alolan Rattata]]"
 image: "![[041 Alolan Rattata.png]]"
 ---
 

@@ -1,5 +1,5 @@
 ---
-self: "[[058 Slaking V|Slaking]]"
+self: "[[058 Slaking V|Slaking V]]"
 image: "![[058 Slaking V.png]]"
 ---
 

@@ -149,22 +149,19 @@
         "type": "split",
         "children": [
           {
-            "id": "6d2a5c2bff1575a5",
+            "id": "e1464d3fa54d9eb0",
             "type": "tabs",
             "children": [
               {
-                "id": "7ed8ea95f35b64d9",
+                "id": "279a0fbf2567350c",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Zero 1.md",
-                    "mode": "preview",
-                    "source": false
-                  }
+                  "type": "empty",
+                  "state": {}
                 }
               }
-            ]
+            ],
+            "stacked": true
           }
         ],
         "direction": "vertical"
@@ -200,19 +197,17 @@
                 "type": "leaf",
                 "state": {
                   "type": "outline",
-                  "state": {
-                    "file": "3 - Resources/clickablePokedexList/301-400.md"
-                  }
+                  "state": {}
                 }
               },
               {
-                "id": "a128a87b7a536694",
+                "id": "835664c316295a5b",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "3 - Resources/clickablePokedexList/301-400.md",
+                    "file": "3 - Resources/clickablePokedexList/401-500.md",
                     "mode": "preview",
                     "source": false
                   },
@@ -280,10 +275,7 @@
         "direction": "horizontal",
         "width": 300
       },
-      "ribbon": {
-        "mostRecentAction": ""
-      },
-      "active": "a128a87b7a536694"
+      "active": "279a0fbf2567350c"
     },
     "b": {
       "main": {
@@ -539,5 +531,5 @@
       "active": "aa339d893026a67f"
     }
   },
-  "active": "z"
+  "active": "wip"
 }

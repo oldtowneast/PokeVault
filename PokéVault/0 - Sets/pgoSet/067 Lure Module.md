@@ -1,5 +1,5 @@
 ---
-self: "[[067 Lure Module|Lure]]"
+self: "[[067 Lure Module|Lure Module]]"
 image: "![[067 Lure Module.png]]"
 ---
 

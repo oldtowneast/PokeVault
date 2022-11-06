@@ -1,5 +1,5 @@
 ---
-self: "[[050 Dragonite VSTAR|Dragonite]]"
+self: "[[050 Dragonite VSTAR|Dragonite VSTAR]]"
 image: "![[050 Dragonite VSTAR.png]]"
 ---
 

@@ -14,7 +14,7 @@ Rarity:: Common
 From:: [[Battle Styles]]
 
 > [!tldr]+ Inventory
-> - [ ] Standard
+> - [x] Standard
 
 Owned:: 
 

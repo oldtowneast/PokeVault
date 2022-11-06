@@ -1,5 +1,5 @@
 ---
-self: "[[005 Alolan Exeggutor V|Alolan]]"
+self: "[[005 Alolan Exeggutor V|Alolan Exeggutor V]]"
 image: "![[005 Alolan Exeggutor V.png]]"
 ---
 

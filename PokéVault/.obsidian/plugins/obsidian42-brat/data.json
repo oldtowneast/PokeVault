@@ -1,5 +1,9 @@
 {
-  "pluginList": [],
+  "pluginList": [
+    "0phoff/obsidian-sidetogglecmd",
+    "cloudhao1999/obsidian-scroll-to-top-plugin",
+    "TfTHacker/obsidian42-strange-new-worlds"
+  ],
   "pluginSubListFrozenVersion": [],
   "themesList": [],
   "updateAtStartup": false,

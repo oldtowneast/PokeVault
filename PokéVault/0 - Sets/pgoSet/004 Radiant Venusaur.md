@@ -1,5 +1,5 @@
 ---
-self: "[[004 Radiant Venusaur|Radiant]]"
+self: "[[004 Radiant Venusaur|Radiant Venusaur]]"
 image: "![[004 Radiant Venusaur.png]]"
 ---
 

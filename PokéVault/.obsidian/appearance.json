@@ -4,6 +4,7 @@
   "interfaceFontFamily": "iA Writer Mono V",
   "textFontFamily": "Input Sans,iA Writer Duo V",
   "monospaceFontFamily": "iA Writer Mono V",
-  "baseFontSize": 20,
-  "theme": "obsidian"
+  "baseFontSize": 19,
+  "theme": "obsidian",
+  "baseFontSizeAction": true
 }

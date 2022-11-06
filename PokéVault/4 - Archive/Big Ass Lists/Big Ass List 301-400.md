@@ -83,7 +83,7 @@
 [[383 Groudon|Groudon]]
 [[384 Rayquaza|Rayquaza]]
 [[385 Jirachi|Jirachi]]
-[[386 Deoxys|Deoxys]]
+[[386 Normal Forme Deoxys|Deoxys]]
 [[387 Turtwig|Turtwig]]
 [[388 Grotle|Grotle]]
 [[389 Torterra|Torterra]]

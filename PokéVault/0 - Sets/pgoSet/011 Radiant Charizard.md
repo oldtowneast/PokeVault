@@ -1,5 +1,5 @@
 ---
-self: "[[011 Radiant Charizard|Radiant]]"
+self: "[[011 Radiant Charizard|Radiant Charizard]]"
 image: "![[011 Radiant Charizard.png]]"
 ---
 

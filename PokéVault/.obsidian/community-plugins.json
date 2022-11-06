@@ -1,7 +1,6 @@
 [
   "obsidian-auto-link-title",
   "buttons",
-  "workspaces-plus",
   "templater-obsidian",
   "simple-embeds",
   "quickadd",
@@ -25,12 +24,16 @@
   "obsidian-editor-shortcuts",
   "metaedit",
   "tag-wrangler",
-  "obsidian-trim-whitespace",
   "obsidian-icons-plugin",
   "search-on-internet",
   "auto-note-mover",
   "obsidian-charts",
   "obsidian-banners",
   "obsidian-advanced-uri",
-  "various-complements"
+  "various-complements",
+  "workbench-obsidian",
+  "metadata-menu",
+  "obsidian-linter",
+  "copy-url-in-preview",
+  "obsidian-sidetogglecmd"
 ]

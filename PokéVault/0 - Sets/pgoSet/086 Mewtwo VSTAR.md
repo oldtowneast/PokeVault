@@ -1,5 +1,5 @@
 ---
-self: "[[086 Mewtwo VSTAR|Mewtwo]]"
+self: "[[086 Mewtwo VSTAR|Mewtwo VSTAR]]"
 image: "![[086 Mewtwo VSTAR.png]]"
 ---
 

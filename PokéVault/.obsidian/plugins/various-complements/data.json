@@ -1,5 +1,5 @@
 {
-  "strategy": "default",
+  "strategy": "english-only",
   "matchStrategy": "prefix",
   "maxNumberOfSuggestions": 5,
   "maxNumberOfWordsAsPhrase": 3,
@@ -66,16 +66,16 @@
     "Rock": {
       "Rock": {
         "internalLink": {
-          "count": 6,
-          "lastUpdated": 1666678068508
+          "count": 24,
+          "lastUpdated": 1667761421194
         }
       }
     },
     "Ground": {
       "Ground": {
         "internalLink": {
-          "count": 3,
-          "lastUpdated": 1666678471175
+          "count": 12,
+          "lastUpdated": 1667761132624
         }
       }
     },
@@ -98,80 +98,80 @@
     "Dark": {
       "Dark": {
         "internalLink": {
-          "count": 2,
-          "lastUpdated": 1666677883108
+          "count": 12,
+          "lastUpdated": 1667759487447
         }
       }
     },
     "Electric": {
       "Electric": {
         "internalLink": {
-          "count": 1,
-          "lastUpdated": 1666676534970
+          "count": 2,
+          "lastUpdated": 1667723760217
         }
       }
     },
     "Fighting": {
       "Fighting": {
         "internalLink": {
-          "count": 2,
-          "lastUpdated": 1666677899730
+          "count": 18,
+          "lastUpdated": 1667760748728
         }
       }
     },
     "Bug": {
       "Bug": {
         "internalLink": {
-          "count": 5,
-          "lastUpdated": 1666677904396
+          "count": 24,
+          "lastUpdated": 1667759842883
         }
       }
     },
     "Ice": {
       "Ice": {
         "internalLink": {
-          "count": 4,
-          "lastUpdated": 1666678224704
+          "count": 15,
+          "lastUpdated": 1667759844710
         }
       }
     },
     "Dragon": {
       "Dragon": {
         "internalLink": {
-          "count": 3,
-          "lastUpdated": 1666677710901
+          "count": 5,
+          "lastUpdated": 1667757446844
         }
       }
     },
     "Fire": {
       "Fire": {
         "internalLink": {
-          "count": 1,
-          "lastUpdated": 1666677775554
+          "count": 4,
+          "lastUpdated": 1667758518181
         }
       }
     },
     "Poison": {
       "Poison": {
         "internalLink": {
-          "count": 3,
-          "lastUpdated": 1666678227087
+          "count": 6,
+          "lastUpdated": 1667759782598
         }
       }
     },
     "Flying": {
       "Flying": {
         "internalLink": {
-          "count": 3,
-          "lastUpdated": 1666678055876
+          "count": 13,
+          "lastUpdated": 1667761412657
         }
       }
     },
     "Fairy": {
       "Fairy": {
         "internalLink": {
-          "count": 2,
-          "lastUpdated": 1666678216037
+          "count": 5,
+          "lastUpdated": 1667757824245
         }
       }
     },
@@ -186,8 +186,8 @@
     "Psychic": {
       "Psychic": {
         "internalLink": {
-          "count": 1,
-          "lastUpdated": 1666678370295
+          "count": 10,
+          "lastUpdated": 1667759399757
         }
       }
     },
@@ -196,6 +196,188 @@
         "internalLink": {
           "count": 1,
           "lastUpdated": 1666766705146
+        }
+      }
+    },
+    "Time Travel": {
+      "Time Travel": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1666919201792
+        }
+      }
+    },
+    "Astral Radiance": {
+      "Astral Radiance": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1667203978065
+        }
+      }
+    },
+    "Fusion Strike": {
+      "Fusion Strike": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1667204022164
+        }
+      }
+    },
+    "Pokemon GO": {
+      "Pokemon GO": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1667204099529
+        }
+      }
+    },
+    "Squirtle": {
+      "007 Squirtle": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1667204744451
+        }
+      }
+    },
+    "Boxes": {
+      "Boxes": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1667205555468
+        }
+      }
+    },
+    "Hisuian Zoroark": {
+      "571 Hisuian Zoroark": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1667204802248
+        }
+      }
+    },
+    "Collection": {
+      "Collection": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1667205583227
+        }
+      }
+    },
+    "Pokémon": {
+      "Pokémon": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1667205035498
+        }
+      }
+    },
+    "Virizion V Box": {
+      "Virizion V Box": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1667205222290
+        }
+      }
+    },
+    "Premium": {
+      "Premium": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1667205581506
+        }
+      }
+    },
+    "Deoxys VMAX & VSTAR Battle Box": {
+      "Deoxys VMAX & VSTAR Battle Box": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1667205674978
+        }
+      }
+    },
+    "Zeraora VMAX & VSTAR Battle Box": {
+      "Zeraora VMAX & VSTAR Battle Box": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1667206163966
+        }
+      }
+    },
+    "Bulbasaur": {
+      "001 Bulbasaur": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1667226613599
+        }
+      },
+      "Bulbasaur": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1667226616782
+        }
+      }
+    },
+    "Mystic": {
+      "Mystic": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1667342271971
+        }
+      }
+    },
+    "Grass": {
+      "Grass": {
+        "internalLink": {
+          "count": 6,
+          "lastUpdated": 1667756048645
+        }
+      }
+    },
+    "Lileep": {
+      "Lileep": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1667724204217
+        }
+      }
+    },
+    "Ghost": {
+      "Ghost": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1667759486182
+        }
+      }
+    },
+    "359 Absol": {
+      "359 Absol": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1667725956041
+        }
+      }
+    },
+    "Water": {
+      "Water": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1667754574890
+        }
+      }
+    },
+    "Grotle": {
+      "388 Grotle": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1667759719198
+        }
+      }
+    },
+    "Steel": {
+      "Steel": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1667761116351
         }
       }
     }
