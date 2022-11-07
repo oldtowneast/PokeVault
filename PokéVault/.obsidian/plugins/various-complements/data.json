@@ -66,16 +66,16 @@
     "Rock": {
       "Rock": {
         "internalLink": {
-          "count": 24,
-          "lastUpdated": 1667761421194
+          "count": 29,
+          "lastUpdated": 1667801325442
         }
       }
     },
     "Ground": {
       "Ground": {
         "internalLink": {
-          "count": 12,
-          "lastUpdated": 1667761132624
+          "count": 16,
+          "lastUpdated": 1667801011906
         }
       }
     },
@@ -106,32 +106,32 @@
     "Electric": {
       "Electric": {
         "internalLink": {
-          "count": 2,
-          "lastUpdated": 1667723760217
+          "count": 3,
+          "lastUpdated": 1667801319273
         }
       }
     },
     "Fighting": {
       "Fighting": {
         "internalLink": {
-          "count": 18,
-          "lastUpdated": 1667760748728
+          "count": 19,
+          "lastUpdated": 1667799698550
         }
       }
     },
     "Bug": {
       "Bug": {
         "internalLink": {
-          "count": 24,
-          "lastUpdated": 1667759842883
+          "count": 25,
+          "lastUpdated": 1667800828345
         }
       }
     },
     "Ice": {
       "Ice": {
         "internalLink": {
-          "count": 15,
-          "lastUpdated": 1667759844710
+          "count": 18,
+          "lastUpdated": 1667801323029
         }
       }
     },
@@ -154,16 +154,16 @@
     "Poison": {
       "Poison": {
         "internalLink": {
-          "count": 6,
-          "lastUpdated": 1667759782598
+          "count": 7,
+          "lastUpdated": 1667800822712
         }
       }
     },
     "Flying": {
       "Flying": {
         "internalLink": {
-          "count": 13,
-          "lastUpdated": 1667761412657
+          "count": 15,
+          "lastUpdated": 1667801308624
         }
       }
     },
@@ -328,8 +328,8 @@
     "Grass": {
       "Grass": {
         "internalLink": {
-          "count": 6,
-          "lastUpdated": 1667756048645
+          "count": 8,
+          "lastUpdated": 1667800807917
         }
       }
     },
@@ -376,8 +376,16 @@
     "Steel": {
       "Steel": {
         "internalLink": {
+          "count": 4,
+          "lastUpdated": 1667801195193
+        }
+      }
+    },
+    "building": {
+      "building": {
+        "currentFile": {
           "count": 1,
-          "lastUpdated": 1667761116351
+          "lastUpdated": 1667789662501
         }
       }
     }

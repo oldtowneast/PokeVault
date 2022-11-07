@@ -1,1 +1,1 @@
-<p align = "center"> <progress max=100 value=80> </progress> 80% </p>
+<progress max=905 value=523> </progress>
