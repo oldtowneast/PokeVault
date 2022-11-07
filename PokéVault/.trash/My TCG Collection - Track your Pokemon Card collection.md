@@ -1,16 +1,10 @@
----
-created: 2022-11-06T16:51:38 (UTC -06:00)
-tags: []
-source: https://mytcgcollection.com/card/swsh10/swsh10-1
-author: 
----
+author:: null
+source:: [My TCG Collection - Track your Pokemon Card collection](https://mytcgcollection.com/card/swsh10/swsh10-1)
+clipped:: [[2022-11-06]]
+published:: 
 
-# My TCG Collection - Track your Pokemon Card collection
+#clippings
 
-> ## Excerpt
-> My TCG Collection - Track your Pokemon Card Collection
-
----
 ![](https://images.pokemontcg.io/swsh10/1_hires.png)
 
 Beedrill VPokémon BasicV
