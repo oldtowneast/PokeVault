@@ -15,4 +15,4 @@ For more information, check out the [wiki](https://github.com/oldtowneast/PokeVa
 
 # 🔴 We are "working in public" on YouTube 🎥
 
-- We have been livestreaming progress on the PokéVault on YouTube.  They happen whenever the moment presents itself.  Past livestreams are [located here](https://www.youtube.com/channel/UCBe_nit3C6l0JoIFtlxgbog/videos?view=2&sort=dd&live_view=503&shelf_id=0).
+- We have been livestreaming progress on the PokéVault on YouTube.  They happen whenever the moment presents itself.  Past livestreams are [located here](https://www.youtube.com/channel/UCBe_nit3C6l0JoIFtlxgbog/streams).
