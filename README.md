@@ -12,3 +12,7 @@ The [active plugins](Active-Plugins.md) list if **out of date**.
 - For now, you see what plugins are installed by going [directly to the plugins directory](/Pok%C3%A9Vault/.obsidian/plugins).
 
 For more information, check out the [wiki](https://github.com/oldtowneast/PokeVault/wiki).
+
+# 🔴 We are "working in public" on YouTube 🎥
+
+- We have been livestreaming progress on the PokéVault on YouTube.  They happen whenever the moment presents itself.  Past livestreams are [located here](https://www.youtube.com/channel/UCBe_nit3C6l0JoIFtlxgbog/videos?view=2&sort=dd&live_view=503&shelf_id=0).
