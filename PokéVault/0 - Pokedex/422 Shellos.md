@@ -6,7 +6,6 @@ image: "![[422 Shellos.png]]"
 
 ![[422 Shellos.png]]
 
-
 Number:: 422
 
 Name:: Shellos

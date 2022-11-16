@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "905a54605baa8d35",
+        "id": "ab72de89a0433c7f",
         "type": "tabs",
         "children": [
           {
-            "id": "77e704b6f078841d",
+            "id": "89a8ddebb028abe6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "9 - meta/PokéCommands.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -56,9 +52,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "9 - meta/PokéCommands.md"
-              }
+              "state": {}
             }
           },
           {
@@ -79,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f49b3148bec9107c",
@@ -129,35 +122,6 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "089db1ae348db435",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "9 - meta/PokéCommands.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "11ba514da9481230",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "9 - meta/PokéCommands.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
           }
         ]
       }
@@ -166,17 +130,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "77e704b6f078841d",
+  "active": "89a8ddebb028abe6",
   "lastOpenFiles": [
-    "1 - Dataviews/GO - Checklist.md",
-    "0 - Sets/pgoSet/002 Ivysaur.md",
-    "0 - Sets/pgoSet/003 Venusaur.md",
-    "OTD/2022-11-07.md",
-    "§ Inbox/413 Sandy Cloak Wormadam.md",
-    "§ Inbox/414 Mothim.md",
-    "§ Inbox/413 Plant Cloak Wormadam.md",
-    "§ Inbox/413 Trash Cloak Wormadam.md",
-    "9 - meta/$tmp/$$tmp/1.2 newMega.md",
-    "§ Inbox/412 Plant Cloak Burmy.md"
+    "9 - meta/PokéCommands.md",
+    "§ Inbox/427 Buneary.md",
+    "§ Inbox/428 Lopunny.md",
+    "§ Inbox/431 Glameow.md",
+    "§ Inbox/432 Purugly.md",
+    "3 - Resources/clickablePokedexList/401-500.md",
+    "0 - Pokedex/430 Honchkrow.md",
+    "0 - Pokedex/429 Mismagius.md",
+    "§ Inbox/429 Mega Lopunny.md",
+    "§ Inbox/426 Drifblim.md"
   ]
 }

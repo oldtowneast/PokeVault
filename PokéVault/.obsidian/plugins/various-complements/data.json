@@ -66,16 +66,16 @@
     "Rock": {
       "Rock": {
         "internalLink": {
-          "count": 29,
-          "lastUpdated": 1667801325442
+          "count": 33,
+          "lastUpdated": 1668590217020
         }
       }
     },
     "Ground": {
       "Ground": {
         "internalLink": {
-          "count": 16,
-          "lastUpdated": 1667801011906
+          "count": 17,
+          "lastUpdated": 1668588576938
         }
       }
     },
@@ -106,32 +106,32 @@
     "Electric": {
       "Electric": {
         "internalLink": {
-          "count": 3,
-          "lastUpdated": 1667801319273
+          "count": 4,
+          "lastUpdated": 1668588234434
         }
       }
     },
     "Fighting": {
       "Fighting": {
         "internalLink": {
-          "count": 19,
-          "lastUpdated": 1667799698550
+          "count": 23,
+          "lastUpdated": 1668590808591
         }
       }
     },
     "Bug": {
       "Bug": {
         "internalLink": {
-          "count": 25,
-          "lastUpdated": 1667800828345
+          "count": 26,
+          "lastUpdated": 1668589073663
         }
       }
     },
     "Ice": {
       "Ice": {
         "internalLink": {
-          "count": 18,
-          "lastUpdated": 1667801323029
+          "count": 22,
+          "lastUpdated": 1668590214548
         }
       }
     },
@@ -154,24 +154,24 @@
     "Poison": {
       "Poison": {
         "internalLink": {
-          "count": 7,
-          "lastUpdated": 1667800822712
+          "count": 8,
+          "lastUpdated": 1668589071435
         }
       }
     },
     "Flying": {
       "Flying": {
         "internalLink": {
-          "count": 15,
-          "lastUpdated": 1667801308624
+          "count": 19,
+          "lastUpdated": 1668590200687
         }
       }
     },
     "Fairy": {
       "Fairy": {
         "internalLink": {
-          "count": 5,
-          "lastUpdated": 1667757824245
+          "count": 6,
+          "lastUpdated": 1668590623095
         }
       }
     },
@@ -386,6 +386,22 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1667789662501
+        }
+      }
+    },
+    "Cherubi": {
+      "Cherubi": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668589130744
+        }
+      }
+    },
+    "Lopunny": {
+      "Lopunny": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668590577783
         }
       }
     }

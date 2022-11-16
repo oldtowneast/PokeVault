@@ -18,7 +18,7 @@
 [[418 Buizel|Buizel]]
 [[419 Floatzel|Floatzel]]
 [[420 Cherubi|Cherubi]]
-[[421 Cherrim|Cherrim]]
+[[421 Cherrim (Overcast Form)|Cherrim]]
 [[422 Shellos|Shellos]]
 [[423 Gastrodon|Gastrodon]]
 [[424 Ambipom|Ambipom]]

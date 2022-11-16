@@ -6,7 +6,6 @@ image: "![[424 Ambipom.png]]"
 
 ![[424 Ambipom.png]]
 
-
 Number:: 424
 
 Name:: Ambipom

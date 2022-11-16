@@ -1,15 +1,15 @@
 ---
-alias: undefined
-self: "[[Untitled|undefined]]"
+alias: Buneary
+self: "[[427 Buneary|Buneary]]"
 image: "<% tp.file.cursor(80) %>"
 ---
 
 <% tp.file.cursor(80) %>
 <% tp.file.cursor(71) %>
 
-Number:: Untitled
+Number:: 427
 
-Name:: undefined
+Name:: Buneary
 
 Category:: [[<% tp.file.cursor(20) %>]]
 
